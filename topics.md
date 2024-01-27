@@ -135,6 +135,7 @@
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
+- [web-development](#web-development)
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
@@ -1177,7 +1178,6 @@
 - [apache/cassandra-java-driver](https://github.com/apache/cassandra-java-driver) - Java Driver for Apache Cassandra®
 - [onefrankguy/frankmitchell.org](https://github.com/onefrankguy/frankmitchell.org) - 'Cause published words need source control too.
 - [tckmn/mkcast](https://github.com/tckmn/mkcast) - [OBSOLETE - see readme] A tool for creating GIF screencasts of a terminal, with key presses overlaid.
-- [jendewalt/jennifer_dewalt](https://github.com/jendewalt/jennifer_dewalt) - a.k.a. 180 Websites in 180 Days
 - [davidbcook/led-controller](https://github.com/davidbcook/led-controller) - 
 - [onderweg/whereami-geojson](https://github.com/onderweg/whereami-geojson) - A command line tool for OS X to get your geographic coordinates using the CoreLocation framework; forked from WhereAmI
 - [onderweg/droplets](https://github.com/onderweg/droplets) - A simple Digital Ocean Droplet manager for OSX. Build with Swift & AngularJS
@@ -1665,6 +1665,10 @@
 - [Okazari/Rythm.js](https://github.com/Okazari/Rythm.js) - A javascript library that makes your page dance.
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
 - [hanami/hanami](https://github.com/hanami/hanami) - The web, with simplicity.
+
+## web-development 
+
+- [jendewalt/jennifer_dewalt](https://github.com/jendewalt/jennifer_dewalt) - a.k.a. 180 Websites in 180 Days
 
 ## webpack 
 

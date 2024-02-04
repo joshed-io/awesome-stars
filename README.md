@@ -598,7 +598,6 @@
 - [algolia/docsearch-scraper](https://github.com/algolia/docsearch-scraper) - DocSearch - Scraper
 - [idpaterson/alfred-wunderlist-workflow](https://github.com/idpaterson/alfred-wunderlist-workflow) - Unbelievably fast task entry in Wunderlist with due dates, reminders, and recurrence
 - [tckmn/mkcast](https://github.com/tckmn/mkcast) - [OBSOLETE - see readme] A tool for creating GIF screencasts of a terminal, with key presses overlaid.
-- [outofmbufs/Nappy](https://github.com/outofmbufs/Nappy) - NumerousApp Python library
 - [buildtimetrend/python-lib](https://github.com/buildtimetrend/python-lib) - Buildtime Trend Python library
 - [gphat/experiment-python](https://github.com/gphat/experiment-python) - Python experiments inspired by GitHub's dat-science
 - [triketora/women-in-software-eng](https://github.com/triketora/women-in-software-eng) - Crowdsourced repository of women in software engineering stats.
@@ -794,7 +793,6 @@
 - [johnbintz/jasmine-headless-webkit](https://github.com/johnbintz/jasmine-headless-webkit) - This project is dead. You should use Karma instead. I do.
 - [dzello/cloudtalk_ruby](https://github.com/dzello/cloudtalk_ruby) - Ruby API client for CloudTalk
 - [supertunaman/Boatduinode](https://github.com/supertunaman/Boatduinode) - Boat + duino + node.js
-- [defunkt/dotjs](https://github.com/defunkt/dotjs) - ~/.js
 - [ruby-amqp/amqp](https://github.com/ruby-amqp/amqp) - EventMachine-based RabbitMQ client. Prefer Bunny: http://rubybunny.info. See documentation guides at http://ruby-amqp.github.io/amqp/.
 - [facebookarchive/watir](https://github.com/facebookarchive/watir) - Watir is a Ruby browser-driver suitable for apps in any language.
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily

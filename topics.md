@@ -1192,7 +1192,6 @@
 - [onderweg/whereami-geojson](https://github.com/onderweg/whereami-geojson) - A command line tool for OS X to get your geographic coordinates using the CoreLocation framework; forked from WhereAmI
 - [onderweg/droplets](https://github.com/onderweg/droplets) - A simple Digital Ocean Droplet manager for OSX. Build with Swift & AngularJS
 - [onderweg/numerous-php](https://github.com/onderweg/numerous-php) - Quick and Dirty PHP Numerous API client (not complete)
-- [outofmbufs/Nappy](https://github.com/outofmbufs/Nappy) - NumerousApp Python library
 - [dougtoppin/keen-aws-cloudtrail](https://github.com/dougtoppin/keen-aws-cloudtrail) - Simple NodeJS app to upload AWS CloudTrail log files into a Keen.io project
 - [mancusoa74/TRACKME](https://github.com/mancusoa74/TRACKME) - Tasker and Keen.io Track Me application
 - [oblakeerickson/longest_streak](https://github.com/oblakeerickson/longest_streak) - Who has the Longest Streak on GitHub?
@@ -1305,7 +1304,6 @@
 - [dzello/cloudtalk_ruby](https://github.com/dzello/cloudtalk_ruby) - Ruby API client for CloudTalk
 - [supertunaman/Boatduinode](https://github.com/supertunaman/Boatduinode) - Boat + duino + node.js
 - [trentm/json](https://github.com/trentm/json) - A "json" command for massaging JSON on your Unix command line.
-- [defunkt/dotjs](https://github.com/defunkt/dotjs) - ~/.js
 - [jamesyu/gmailr](https://github.com/jamesyu/gmailr) - A Gmail Javascript API
 - [facebookarchive/watir](https://github.com/facebookarchive/watir) - Watir is a Ruby browser-driver suitable for apps in any language.
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily

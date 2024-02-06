@@ -196,7 +196,6 @@
 - [typesense/typesense-instantsearch-adapter](https://github.com/typesense/typesense-instantsearch-adapter) - A JS adapter library to build rich search interfaces with Typesense and InstantSearch.js
 - [typesense/showcase-hn-comments-semantic-search](https://github.com/typesense/showcase-hn-comments-semantic-search) - Semantic Search + Keyword Search + Hybrid Search + Filtering + Faceting on 300K HN Comments
 - [orbit-love/panoramica](https://github.com/orbit-love/panoramica) - Explore conversational landscapes with AI - built with Next.js, LangChain, Memgraph, and Orbit
-- [orbit-love/panoramica-docs](https://github.com/orbit-love/panoramica-docs) - Panoramica documentation built with Docusaurus
 - [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
 - [derrickreimer/fathom-client](https://github.com/derrickreimer/fathom-client) - A Fathom Analytics library to help with client-side routing
 - [orbit-love/orbit-model](https://github.com/orbit-love/orbit-model) - A framework for building high gravity communities 🪐
@@ -793,6 +792,7 @@
 - [johnbintz/jasmine-headless-webkit](https://github.com/johnbintz/jasmine-headless-webkit) - This project is dead. You should use Karma instead. I do.
 - [dzello/cloudtalk_ruby](https://github.com/dzello/cloudtalk_ruby) - Ruby API client for CloudTalk
 - [supertunaman/Boatduinode](https://github.com/supertunaman/Boatduinode) - Boat + duino + node.js
+- [defunkt/dotjs](https://github.com/defunkt/dotjs) - ~/.js
 - [ruby-amqp/amqp](https://github.com/ruby-amqp/amqp) - EventMachine-based RabbitMQ client. Prefer Bunny: http://rubybunny.info. See documentation guides at http://ruby-amqp.github.io/amqp/.
 - [facebookarchive/watir](https://github.com/facebookarchive/watir) - Watir is a Ruby browser-driver suitable for apps in any language.
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily

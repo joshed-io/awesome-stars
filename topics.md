@@ -849,7 +849,6 @@
 - [brpaz/vscode-docsearch](https://github.com/brpaz/vscode-docsearch) - VSCode Extension that allows to search on documnetation sites powered by Algolia DocSearch or MkDocs, directly from your VSCode
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [typesense/showcase-hn-comments-semantic-search](https://github.com/typesense/showcase-hn-comments-semantic-search) - Semantic Search + Keyword Search + Hybrid Search + Filtering + Faceting on 300K HN Comments
-- [orbit-love/panoramica-docs](https://github.com/orbit-love/panoramica-docs) - Panoramica documentation built with Docusaurus
 - [ansonyuu/matchmaking](https://github.com/ansonyuu/matchmaking) - Embedding space of names clustered based on their interests using the sentence-transformers all-MiniLM-L6-v2 model
 - [fishbigger/TapoP100](https://github.com/fishbigger/TapoP100) - A module for controlling the TP-Link Tapo P100 Plugs
 - [rubycdp/vessel](https://github.com/rubycdp/vessel) - Fast high-level web crawling Ruby framework
@@ -1304,6 +1303,7 @@
 - [dzello/cloudtalk_ruby](https://github.com/dzello/cloudtalk_ruby) - Ruby API client for CloudTalk
 - [supertunaman/Boatduinode](https://github.com/supertunaman/Boatduinode) - Boat + duino + node.js
 - [trentm/json](https://github.com/trentm/json) - A "json" command for massaging JSON on your Unix command line.
+- [defunkt/dotjs](https://github.com/defunkt/dotjs) - ~/.js
 - [jamesyu/gmailr](https://github.com/jamesyu/gmailr) - A Gmail Javascript API
 - [facebookarchive/watir](https://github.com/facebookarchive/watir) - Watir is a Ruby browser-driver suitable for apps in any language.
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily

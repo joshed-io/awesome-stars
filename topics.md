@@ -846,6 +846,7 @@
 
 ## others 
 
+- [tado/samples-extra](https://github.com/tado/samples-extra) - Extra samples for Dirt-Samples
 - [collabora/WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 - [dzello/awesome-stars](https://github.com/dzello/awesome-stars) - A curated list of my GitHub stars!
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets

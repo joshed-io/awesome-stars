@@ -584,7 +584,6 @@
 - [act-now-coalition/covid-data-model](https://github.com/act-now-coalition/covid-data-model) - Data backend providing computed data for the graphs displayed at https://covidactnow.org
 - [codepost-io/codepost-python](https://github.com/codepost-io/codepost-python) - Provides a convenient Python interface to the codePost API. Start scripting!
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [TonicAI/condenser](https://github.com/TonicAI/condenser) - Condenser is a database subsetting tool
 - [robbie-cao/awesome-slides](https://github.com/robbie-cao/awesome-slides) - Awesome Slides for Presentation
 - [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
@@ -837,6 +836,7 @@
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
 - [gaffneyc/heroku-buildpack-jemalloc](https://github.com/gaffneyc/heroku-buildpack-jemalloc) - Heroku buildpack that installs the Jemalloc memory allocator
 - [DuckyTeam/heroku-buildpack-imagemagick](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) - 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -902,7 +902,7 @@
 - [prisma/prisma-client-js](https://github.com/prisma/prisma-client-js) - Type-safe database client for TypeScript & Node.js (ORM replacement)
 - [prisma/migrate](https://github.com/prisma/migrate) - Issues for Prisma Migrate are now tracked at prisma/prisma. This repo was used to track issues for Prisma Migrate Experimental and is now deprecated.
 - [hubtype/botonic](https://github.com/hubtype/botonic) - Build chatbots and conversational experiences using React
-- [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
+- [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request) - Minimal GraphQL client
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [marnusw/cloudinary-tiny-js](https://github.com/marnusw/cloudinary-tiny-js) - A much smaller alternative to cloudinary-core for client side image transformations

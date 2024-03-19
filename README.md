@@ -585,7 +585,7 @@
 - [SavannahHQ/Savannah](https://github.com/SavannahHQ/Savannah) - Savannah is a Community Relationship Manager (CoRM), which is like a Customer Relationship Manager (CRM) but with a focus on community building rather than sales.
 - [act-now-coalition/covid-data-model](https://github.com/act-now-coalition/covid-data-model) - Data backend providing computed data for the graphs displayed at https://covidactnow.org
 - [codepost-io/codepost-python](https://github.com/codepost-io/codepost-python) - Provides a convenient Python interface to the codePost API. Start scripting!
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
 - [TonicAI/condenser](https://github.com/TonicAI/condenser) - Condenser is a database subsetting tool
 - [robbie-cao/awesome-slides](https://github.com/robbie-cao/awesome-slides) - Awesome Slides for Presentation
 - [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages

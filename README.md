@@ -338,7 +338,6 @@
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [algolia/hn-reactnative-sample](https://github.com/algolia/hn-reactnative-sample) - Sample Hacker News Search app by Algolia based on React Native.
 - [rlancer/AlgoliaRethinkDB](https://github.com/rlancer/AlgoliaRethinkDB) - A demo app on how to use Algolia with RethinkDB change feeds.
-- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [GitbookIO/plugin-algolia](https://github.com/GitbookIO/plugin-algolia) - Power search using Algolia
 - [webpack/docs](https://github.com/webpack/docs) - [OLD] documentation for webpack
 - [lukasz-madon/algolia-angular-example](https://github.com/lukasz-madon/algolia-angular-example) - Example of using http://www.algolia.com/ search with Angular.js
@@ -915,6 +914,7 @@
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [algolia/npm-search](https://github.com/algolia/npm-search) - 🗿 npm ↔️ Algolia replication tool :skier: :snail: :artificial_satellite:
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
 - [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.

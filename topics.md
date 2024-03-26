@@ -389,6 +389,7 @@
 - [PagerDuty/incident-response-docs](https://github.com/PagerDuty/incident-response-docs) - PagerDuty's Incident Response Documentation.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [algolia/docsearch-preview](https://github.com/algolia/docsearch-preview) - 📄 Test out the search for your DocSearch project
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
 - [algolia/docsearch-scraper](https://github.com/algolia/docsearch-scraper) - DocSearch - Scraper
 - [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs) - DocSearch - Configurations
@@ -472,6 +473,7 @@
 - [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [rayrutjes/wp-plugin-git-svn-sync](https://github.com/rayrutjes/wp-plugin-git-svn-sync) - ☄️ Zero config synchronizing of Git repository with SVN for publishing WordPress plugins.
 - [iam4x/zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) - Display feedback of terminal in the 🍏 Touchbar
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 
 ## github 
 
@@ -749,6 +751,7 @@
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 
 ## mastodon 
 
@@ -1108,7 +1111,6 @@
 - [rlancer/AlgoliaRethinkDB](https://github.com/rlancer/AlgoliaRethinkDB) - A demo app on how to use Algolia with RethinkDB change feeds.
 - [algolia/instantsearch-workshop](https://github.com/algolia/instantsearch-workshop) - A 10-minute, step-by-step guide to creating your first instantsearch experience.
 - [keen/cohorts](https://github.com/keen/cohorts) - Cohort Builder by Keen IO
-- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [keen/slate_algolia](https://github.com/keen/slate_algolia) - Easily index your Slate-powered docs in Algolia
 - [ospalh/anki-addons](https://github.com/ospalh/anki-addons) - A collection of Anki 2.1 addons in different states of bugginess, up-to-dateness and usefulness.
 - [algolia/documentation-editor](https://github.com/algolia/documentation-editor) - Algolia's Documentation Editor

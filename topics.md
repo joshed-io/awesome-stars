@@ -1489,7 +1489,7 @@
 
 - [bruz/react-native-redux-groceries](https://github.com/bruz/react-native-redux-groceries) - A simple grocery list app with offline support, built with React Native, Redux, Firebase
 - [pburtchaell/redux-promise-middleware](https://github.com/pburtchaell/redux-promise-middleware) - Enables simple, yet robust handling of async action creators in Redux
-- [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
+- [reduxjs/redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
 - [reactGo/reactGo](https://github.com/reactGo/reactGo) - Your One-Stop solution for a full-stack universal Redux App!
 
 ## rest-api 

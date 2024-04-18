@@ -52,7 +52,7 @@
 
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [hyperlogic/riftty](https://github.com/hyperlogic/riftty) - Terminal Emulator for the Oculus Rift
-- [dzello/ffmpeg-heroku](https://github.com/dzello/ffmpeg-heroku) - ffmpeg built with vulcan on the Heroku environment
+- [joshed-io/ffmpeg-heroku](https://github.com/joshed-io/ffmpeg-heroku) - ffmpeg built with vulcan on the Heroku environment
 - [keenlabs/KeenClient-iOS](https://github.com/keenlabs/KeenClient-iOS) - Official iOS client for the Keen IO API. Build analytics features directly into your iOS apps.
 - [vmg/sundown](https://github.com/vmg/sundown) - Standards compliant, fast, secure markdown processing library in C
 
@@ -90,7 +90,7 @@
 - [algolia/instantsearch-workshop](https://github.com/algolia/instantsearch-workshop) - A 10-minute, step-by-step guide to creating your first instantsearch experience.
 - [bakery/doctor-jekyll](https://github.com/bakery/doctor-jekyll) - Documentation generator
 - [algolia/algoliasearch-jekyll-hyde](https://github.com/algolia/algoliasearch-jekyll-hyde) - A brazen two-column theme for Jekyll.
-- [dzello/oval-quotes](https://github.com/dzello/oval-quotes) - Search historical US presidential speeches, powered by Algolia
+- [joshed-io/oval-quotes](https://github.com/joshed-io/oval-quotes) - Search historical US presidential speeches, powered by Algolia
 - [decentralizedstack/website](https://github.com/decentralizedstack/website) - Decentralized Stack for a Civilized Internet
 - [staticapps/staticapps.org](https://github.com/staticapps/staticapps.org) - The source for the official StaticApps.org resource site.
 - [keen/keen.github.io](https://github.com/keen/keen.github.io) - A collection of tools for building on Keen
@@ -227,8 +227,8 @@
 - [guard/guard-livereload](https://github.com/guard/guard-livereload) - Guard::LiveReload automatically reload your browser when 'view' files are modified.
 - [shinnn/github-username-regex](https://github.com/shinnn/github-username-regex) - A regular expression that only matches a currently valid Github username
 - [reactjs/react-rails](https://github.com/reactjs/react-rails) - Integrate React.js with Rails views and controllers, the asset pipeline, or webpacker.
-- [dzello/estelle-and-josh](https://github.com/dzello/estelle-and-josh) - 💍 Two people who like each other enough to get married
-- [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo) - 📽️ Create rich HTML-based presentations with Hugo and Reveal.js
+- [joshed-io/estelle-and-josh](https://github.com/joshed-io/estelle-and-josh) - 💍 Two people who like each other enough to get married
+- [joshed-io/reveal-hugo](https://github.com/joshed-io/reveal-hugo) - 📽️ Create rich HTML-based presentations with Hugo and Reveal.js
 - [rexxars/sanity-plugin-markdown](https://github.com/rexxars/sanity-plugin-markdown) - Moved to new organization, this is now read-only. Markdown input component and schema type for Sanity
 - [kmelve/sanity-podcast-server](https://github.com/kmelve/sanity-podcast-server) - Get your podcasts from Sanity on the ether!
 - [kmelve/sanity-plugin-podcast](https://github.com/kmelve/sanity-plugin-podcast) - Adds podcast and episode fields and schemas to your Sanity install.
@@ -255,13 +255,13 @@
 - [MeasureOSS/Measure](https://github.com/MeasureOSS/Measure) - At its core Measure is, for lack of a better term, a contributor relationship management system. Measure consists of easy to understand widgets that can be arbitrarily displayed to build dashboards. I
 - [jxnblk/mdx-blocks](https://github.com/jxnblk/mdx-blocks) - 
 - [hagnerd/gatsby-starter-blog-mdx](https://github.com/hagnerd/gatsby-starter-blog-mdx) - Live Demo
-- [dzello/mdx-fairy-tale](https://github.com/dzello/mdx-fairy-tale) - 🏰 A talk about interactive content at JAMstack Conf London 2019
+- [joshed-io/mdx-fairy-tale](https://github.com/joshed-io/mdx-fairy-tale) - 🏰 A talk about interactive content at JAMstack Conf London 2019
 - [manekinekko/spotlight.js](https://github.com/manekinekko/spotlight.js) - A JavaScript library for the Logitech Spotlight presentation remote control.
 - [jxnblk/mdx-deck-theme-example](https://github.com/jxnblk/mdx-deck-theme-example) - Demo of `@mdx-deck/gatsby-theme` with `@jxnblk/gatsby-theme-mdx-blog`
 - [RapidAPI/rapidql](https://github.com/RapidAPI/rapidql) - Query multiple APIs and DBs and join them in a single query
 - [blocks/blocks](https://github.com/blocks/blocks) - A JSX-based page builder for creating beautiful websites without writing code
 - [niklasmtj/gatsby-starter-julia](https://github.com/niklasmtj/gatsby-starter-julia) - A minimal GatsbyJS blog starter with landingpage, estimated reading time, markdown sourcing and much more.
-- [dzello/mdx-talk](https://github.com/dzello/mdx-talk) - 🎤 A talk given at JAMstack Paris about MDX and authorability
+- [joshed-io/mdx-talk](https://github.com/joshed-io/mdx-talk) - 🎤 A talk given at JAMstack Paris about MDX and authorability
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
@@ -283,7 +283,7 @@
 - [dialogflow/dialogflow-fulfillment-nodejs](https://github.com/dialogflow/dialogflow-fulfillment-nodejs) - Dialogflow agent fulfillment library supporting v1&v2, 8 platforms, and text, card, image, suggestion, custom responses
 - [Airtable/airtable-gatsbyjs-blog](https://github.com/Airtable/airtable-gatsbyjs-blog) - Example GatsbyJS blog using Airtable as a CMS
 - [aheckmann/greadme](https://github.com/aheckmann/greadme) - Locally preview your markdown, Github style
-- [dzello/revealjs-themes](https://github.com/dzello/revealjs-themes) - 👨‍🎨 Free Reveal.js themes including robot-lung and sunblind
+- [joshed-io/revealjs-themes](https://github.com/joshed-io/revealjs-themes) - 👨‍🎨 Free Reveal.js themes including robot-lung and sunblind
 - [gapple/myplanet-revealjs](https://github.com/gapple/myplanet-revealjs) - Reveal.js with Myplanet Theme
 - [forestryio/create-static-site](https://github.com/forestryio/create-static-site) - Create static websites with no build configuration.
 - [cloudinary/pkg-cloudinary-core](https://github.com/cloudinary/pkg-cloudinary-core) - Distribution repository for the Cloudinary JavaScript library. Cloudinary is an end-to-end solution for all your image and video needs.
@@ -396,8 +396,8 @@
 - [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 - [survivejs/webpack-book](https://github.com/survivejs/webpack-book) - From apprentice to master (CC BY-NC-ND)
 - [wangzuo/react-medium-editor](https://github.com/wangzuo/react-medium-editor) - React wrapper for medium-editor
-- [dzello/evolving-work](https://github.com/dzello/evolving-work) - A reveal.js presentation based on Reinventing Organizations
-- [dzello/twitter-stream-proxy](https://github.com/dzello/twitter-stream-proxy) - A simple node.js twitter streaming API proxy that returns tweets for tokens
+- [joshed-io/evolving-work](https://github.com/joshed-io/evolving-work) - A reveal.js presentation based on Reinventing Organizations
+- [joshed-io/twitter-stream-proxy](https://github.com/joshed-io/twitter-stream-proxy) - A simple node.js twitter streaming API proxy that returns tweets for tokens
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [jorilallo/passport-moves](https://github.com/jorilallo/passport-moves) - Moves authentication strategy for Passport and Node.js.
@@ -430,14 +430,14 @@
 - [roycef/keen-parse](https://github.com/roycef/keen-parse) - Parse Cloud Code Module for the Keen IO API
 - [sebinsua/express-keenio](https://github.com/sebinsua/express-keenio) - :bar_chart: Rapidly install analytics with a middleware.
 - [gleitz/meteorcyoa](https://github.com/gleitz/meteorcyoa) - Yet Another Choose Your Own Adventure – Meteor Version
-- [dzello/weeve](https://github.com/dzello/weeve) - weeve is an HTML5 Twitter uber-streaming app powered by Firebase, Keen IO and Singly
+- [joshed-io/weeve](https://github.com/joshed-io/weeve) - weeve is an HTML5 Twitter uber-streaming app powered by Firebase, Keen IO and Singly
 - [abelaska/nodejs-emberjs-mongodb](https://github.com/abelaska/nodejs-emberjs-mongodb) - Node.js + Require.js + Mongoose + MongoDB + Express.js + Ember.js + jQuery + Twitter Bootstrap
 - [gtgodsey/bootstrap](https://github.com/gtgodsey/bootstrap) - HTML, CSS, and JS toolkit from Twitter
 - [jwhitley/requirejs-rails](https://github.com/jwhitley/requirejs-rails) - RequireJS support for your Rails 3 or 4 application
 - [emilioforrer/haml_coffee_assets](https://github.com/emilioforrer/haml_coffee_assets) - Haml Coffee templates in the Rails asset pipeline or as Sprockets engine.
-- [dzello/mixpanel-amd](https://github.com/dzello/mixpanel-amd) - An AMD module for running Mixpanel conflict-free
-- [dzello/sideburn.js](https://github.com/dzello/sideburn.js) - Convert HTML to mustache-friendly JSON
-- [dzello/scrappit-js](https://github.com/dzello/scrappit-js) - A boilerplate for interface customization
+- [joshed-io/mixpanel-amd](https://github.com/joshed-io/mixpanel-amd) - An AMD module for running Mixpanel conflict-free
+- [joshed-io/sideburn.js](https://github.com/joshed-io/sideburn.js) - Convert HTML to mustache-friendly JSON
+- [joshed-io/scrappit-js](https://github.com/joshed-io/scrappit-js) - A boilerplate for interface customization
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [krunkosaurus/NodeInterval](https://github.com/krunkosaurus/NodeInterval) - Command-line watch utility written in Node for managing and concatenating javascript templates. Particularly useful for Backbone.js / Spine.js templates.
 - [davidmz/apng-canvas](https://github.com/davidmz/apng-canvas) - APNG implementation on canvas.
@@ -488,7 +488,7 @@
 
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [tado/samples-extra](https://github.com/tado/samples-extra) - Extra samples for Dirt-Samples
-- [dzello/awesome-stars](https://github.com/dzello/awesome-stars) - A curated list of my GitHub stars!
+- [joshed-io/awesome-stars](https://github.com/joshed-io/awesome-stars) - A curated list of my GitHub stars!
 - [rverst/stars](https://github.com/rverst/stars) - A list of my starred repositories, generated by rverst/stargazer
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [orbit-love/github-actions-templates](https://github.com/orbit-love/github-actions-templates) - Starter GitHub Actions templates to get you up and running with community built integrations
@@ -511,7 +511,7 @@
 - [orbit-love/ama](https://github.com/orbit-love/ama) - Ask Orbit anything!
 - [forestryio/ubuild-hugo-starter](https://github.com/forestryio/ubuild-hugo-starter) - 
 - [forestryio/hyde-hugo-starter](https://github.com/forestryio/hyde-hugo-starter) - A starter using @SPF13's ported Hyde Theme for Hugo and Forestry as a Content Manager. Demo Site:
-- [dzello/programming-quotes](https://github.com/dzello/programming-quotes) - A demo presentation for the reveal-hugo Reveal.js Hugo theme
+- [joshed-io/programming-quotes](https://github.com/joshed-io/programming-quotes) - A demo presentation for the reveal-hugo Reveal.js Hugo theme
 - [contentful/contribution-program](https://github.com/contentful/contribution-program) - Contribute to the Contentful blog with pieces on "better ways to build websites". Get rewarded for each post you publish.
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [zenorocha/alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 and 4 workflows that will rock your world
@@ -538,7 +538,7 @@
 - [keen/data-modeling-guide](https://github.com/keen/data-modeling-guide) - Data Modeling Guide
 - [pebble/keen-cache](https://github.com/pebble/keen-cache) - A node js caching proxy for keen.io
 - [keen/keen-js](https://github.com/keen/keen-js) - https://keen.io/ JavaScript SDKs. Track users and visualise the results. Demo http://keen.github.io/keen-dataviz.js/
-- [dzello/preview_markdown_locally](https://github.com/dzello/preview_markdown_locally) - Preview your github README.md locally - before you commit and push
+- [joshed-io/preview_markdown_locally](https://github.com/joshed-io/preview_markdown_locally) - Preview your github README.md locally - before you commit and push
 - [tenderlove/adequatehq.com](https://github.com/tenderlove/adequatehq.com) - Adequate HQ
 - [amdjs/amdjs-api](https://github.com/amdjs/amdjs-api) - Houses the Asynchronous Module Definition API
 - [schacon/showoff](https://github.com/schacon/showoff) - moved to puppetlabs/showoff!
@@ -695,7 +695,7 @@
 - [bkeepers/dotenv](https://github.com/bkeepers/dotenv) - A Ruby gem to load environment variables from `.env`.
 - [RailsApps/rails-omniauth](https://github.com/RailsApps/rails-omniauth) - Rails 5.0 starter app with OmniAuth for authentication.
 - [june29/github-app-rails-example](https://github.com/june29/github-app-rails-example) - A tiny GitHub App example built with Rails.
-- [dzello/mongoid_alize](https://github.com/dzello/mongoid_alize) - Comprehensive, flexible denormalization for mongoid that stays in sync
+- [joshed-io/mongoid_alize](https://github.com/joshed-io/mongoid_alize) - Comprehensive, flexible denormalization for mongoid that stays in sync
 - [clbustos/distribution](https://github.com/clbustos/distribution) - Statistical Distributions multi library wrapper. Uses Ruby by default and C (statistics2/GSL) or Java extensions where available.
 - [orbit-love/orbit-generator](https://github.com/orbit-love/orbit-generator) - Generate fake community data for the Orbit Model
 - [bblimke/webmock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests in Ruby.
@@ -758,31 +758,31 @@
 - [keen/radialflows](https://github.com/keen/radialflows) - Radial flow (sunburst) data visualization
 - [greglook/toolkit](https://github.com/greglook/toolkit) - Simple ruby tool to manage common user configuration and scripts.
 - [keen/keen-cli](https://github.com/keen/keen-cli) - A command line interface for Keen IO
-- [dzello/github-webhook-collector](https://github.com/dzello/github-webhook-collector) - Add a Keen IO webhook to all your Github repositories
-- [dzello/github-trends](https://github.com/dzello/github-trends) - Visualize your organization's Github repository stats over time. Live demo:
+- [joshed-io/github-webhook-collector](https://github.com/joshed-io/github-webhook-collector) - Add a Keen IO webhook to all your Github repositories
+- [joshed-io/github-trends](https://github.com/joshed-io/github-trends) - Visualize your organization's Github repository stats over time. Live demo:
 - [hanami/hanami](https://github.com/hanami/hanami) - The web, with simplicity.
 - [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
 - [mattetti/googlecharts](https://github.com/mattetti/googlecharts) - Ruby Google Chart API
-- [dzello/aud](https://github.com/dzello/aud) - Play MIDI tones according to text patterns in log files
+- [joshed-io/aud](https://github.com/joshed-io/aud) - Play MIDI tones according to text patterns in log files
 - [arirusso/micromidi](https://github.com/arirusso/micromidi) - A Ruby DSL for MIDI
-- [dzello/twine-keen-proxy](https://github.com/dzello/twine-keen-proxy) - Turn webhooks fired by the Supermechanical Twine into Keen IO events
-- [dzello/storm-jruby-example](https://github.com/dzello/storm-jruby-example) - Example Storm app using JRuby and redstorm
+- [joshed-io/twine-keen-proxy](https://github.com/joshed-io/twine-keen-proxy) - Turn webhooks fired by the Supermechanical Twine into Keen IO events
+- [joshed-io/storm-jruby-example](https://github.com/joshed-io/storm-jruby-example) - Example Storm app using JRuby and redstorm
 - [chef-boneyard/vagrant-omnibus](https://github.com/chef-boneyard/vagrant-omnibus) - A Vagrant plugin that ensures the desired version of Chef is installed via the platform-specific Omnibus packages.
 - [librato/librato-storm-kafka](https://github.com/librato/librato-storm-kafka) - Publish metrics from Storm+Kafka setups to Librato
 - [keen/keen-gem-example](https://github.com/keen/keen-gem-example) - A Sinatra app that uses the keen gem to publish events asynchronously
 - [keenlabs/keen-gem](https://github.com/keenlabs/keen-gem) - Official Ruby client for the Keen IO API. Build analytics features directly into your Ruby apps.
 - [doorkeeper/event_tracker](https://github.com/doorkeeper/event_tracker) - Easy tracking using mixpanel or kissmetrics.
-- [dzello/headless_hamlc](https://github.com/dzello/headless_hamlc) - A basic Rails 3.2.3 application showing jasmine-headless-webkit working with haml_coffee_assets
-- [dzello/ruby_trollem_ipsum](https://github.com/dzello/ruby_trollem_ipsum) - A Ruby client for http://trollemipsum.appspot.com/
-- [dzello/kilt](https://github.com/dzello/kilt) - Added in this fork: Specify an author to skip notifications from - likely yourself. Clicking notifications opens the Tracker story in a browser. (OSX only)
+- [joshed-io/headless_hamlc](https://github.com/joshed-io/headless_hamlc) - A basic Rails 3.2.3 application showing jasmine-headless-webkit working with haml_coffee_assets
+- [joshed-io/ruby_trollem_ipsum](https://github.com/joshed-io/ruby_trollem_ipsum) - A Ruby client for http://trollemipsum.appspot.com/
+- [joshed-io/kilt](https://github.com/joshed-io/kilt) - Added in this fork: Specify an author to skip notifications from - likely yourself. Clicking notifications opens the Tracker story in a browser. (OSX only)
 - [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
-- [dzello/shims_and_shivs](https://github.com/dzello/shims_and_shivs) - Disney HTML5 Summit Presentation
+- [joshed-io/shims_and_shivs](https://github.com/joshed-io/shims_and_shivs) - Disney HTML5 Summit Presentation
 - [johnbintz/jasmine-spec-extras](https://github.com/johnbintz/jasmine-spec-extras) - Vendored JavaScript files for use with Jasmine
 - [sj26/derail](https://github.com/sj26/derail) - My curated set of technology choices.
 - [bradphelan/jasminerice](https://github.com/bradphelan/jasminerice) - Pain free coffeescript testing under Rails 3.1
 - [justinweiss/robut](https://github.com/justinweiss/robut) - A simple plugin-enabled HipChat bot
 - [johnbintz/jasmine-headless-webkit](https://github.com/johnbintz/jasmine-headless-webkit) - This project is dead. You should use Karma instead. I do.
-- [dzello/cloudtalk_ruby](https://github.com/dzello/cloudtalk_ruby) - Ruby API client for CloudTalk
+- [joshed-io/cloudtalk_ruby](https://github.com/joshed-io/cloudtalk_ruby) - Ruby API client for CloudTalk
 - [supertunaman/Boatduinode](https://github.com/supertunaman/Boatduinode) - Boat + duino + node.js
 - [defunkt/dotjs](https://github.com/defunkt/dotjs) - ~/.js
 - [ruby-amqp/amqp](https://github.com/ruby-amqp/amqp) - EventMachine-based RabbitMQ client. Prefer Bunny: http://rubybunny.info. See documentation guides at http://ruby-amqp.github.io/amqp/.
@@ -933,5 +933,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [dzello](https://github.com/dzello) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [joshed-io](https://github.com/joshed-io) has waived all copyright and related or neighboring rights to this work.
 

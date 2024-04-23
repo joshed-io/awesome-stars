@@ -884,7 +884,7 @@
 - [ghuntley/orbit-cli](https://github.com/ghuntley/orbit-cli) - a command line interface to orbit.love
 - [teoljungberg/fx](https://github.com/teoljungberg/fx) - Versioned database functions and triggers for Rails
 - [thoughtbot/factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails) - Factory Bot ♥ Rails
-- [orbit-love/notion-ruby-client](https://github.com/orbit-love/notion-ruby-client) - A Ruby client for the Notion API
+- [phacks/notion-ruby-client](https://github.com/phacks/notion-ruby-client) - A Ruby client for the Notion API
 - [keans/lmnotify](https://github.com/keans/lmnotify) - A package for sending notifications to LaMetric Time.
 - [phazonoverload/orbit-signal](https://github.com/phazonoverload/orbit-signal) - A way to quickly add Orbit activites from your phone, geared towards events
 - [sass/sassc-ruby](https://github.com/sass/sassc-ruby) - Use libsass with Ruby!

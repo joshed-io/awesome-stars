@@ -627,7 +627,7 @@
 - [billaul/active_period](https://github.com/billaul/active_period) - Smart-Period aims to simplify Time-range manipulation
 - [mbj/mutant](https://github.com/mbj/mutant) - Automated code reviews via mutation testing - semantic code coverage.
 - [teoljungberg/fx](https://github.com/teoljungberg/fx) - Versioned database functions and triggers for Rails
-- [orbit-love/notion-ruby-client](https://github.com/orbit-love/notion-ruby-client) - A Ruby client for the Notion API
+- [phacks/notion-ruby-client](https://github.com/phacks/notion-ruby-client) - A Ruby client for the Notion API
 - [krisleech/wisper](https://github.com/krisleech/wisper) - A micro library providing Ruby objects with Publish-Subscribe capabilities
 - [sass/sassc-ruby](https://github.com/sass/sassc-ruby) - Use libsass with Ruby!
 - [magnusvk/counter_culture](https://github.com/magnusvk/counter_culture) - Turbo-charged counter caches for your Rails app.

@@ -1105,7 +1105,7 @@
 - [crsten/mongoose-algolia](https://github.com/crsten/mongoose-algolia) - 
 - [segment-boneyard/integration-keen-io](https://github.com/segment-boneyard/integration-keen-io) - Keen IO server-side integration
 - [algolia/instant-search-demo](https://github.com/algolia/instant-search-demo) - Instant-search demo (facets, sliders, paginations & more)
-- [tekezo/Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
+- [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [algolia/hn-reactnative-sample](https://github.com/algolia/hn-reactnative-sample) - Sample Hacker News Search app by Algolia based on React Native.
 - [rlancer/AlgoliaRethinkDB](https://github.com/rlancer/AlgoliaRethinkDB) - A demo app on how to use Algolia with RethinkDB change feeds.

@@ -1454,7 +1454,7 @@
 - [algolia/instantsearch-electron](https://github.com/algolia/instantsearch-electron) - A boilerplate for building desktop React InstantSearch apps with Electron
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [algolia/react-element-to-jsx-string](https://github.com/algolia/react-element-to-jsx-string) - Turn a ReactElement into the corresponding JSX string
-- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
+- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search and recommend experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [algolia/expect-jsx](https://github.com/algolia/expect-jsx) - ✅ toEqualJSX for expect assertion library
 - [igorprado/react-notification-system](https://github.com/igorprado/react-notification-system) - A complete and totally customizable component for notifications in React
@@ -1672,7 +1672,7 @@
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [algolia/vue-instantsearch](https://github.com/algolia/vue-instantsearch) - 👀  Algolia components for building search UIs with Vue.js
 - [Gomah/vue-places](https://github.com/Gomah/vue-places) - Places component is based on places.js for Vue 2.x. Turn any &lt;input&gt; into an address autocomplete.
-- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
+- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search and recommend experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 
 ## vuejs 
 

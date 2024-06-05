@@ -301,6 +301,7 @@
 
 ## compiler 
 
+- [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 
 ## continuous-integration 
@@ -703,7 +704,6 @@
 
 ## language 
 
-- [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 - [infertux/ordinalize_full](https://github.com/infertux/ordinalize_full) - Turns a number into an ordinal string such as first, second, third or 1st, 2nd, 3rd.
 - [vdaubry/github-awards](https://github.com/vdaubry/github-awards) - Discover your ranking on github :
 - [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages

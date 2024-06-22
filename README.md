@@ -205,7 +205,6 @@
 - [brob/orbit-add-member-serverless](https://github.com/brob/orbit-add-member-serverless) - 
 - [alexlsalt/soyouthinkyoucanfrance](https://github.com/alexlsalt/soyouthinkyoucanfrance) - So You Think You Can France is a resource for American teachers in France to find information about cities in France. Built using React and Firebase Firestore. Deployed with Netlify.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
-- [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
 - [prettier/plugin-haml](https://github.com/prettier/plugin-haml) - Plugin for the HAML template language
 - [davidgs/NodeOrbit](https://github.com/davidgs/NodeOrbit) - A bunch of Node-Red stuff to use with Orbit
 - [huacnlee/turbolinks-prefetch](https://github.com/huacnlee/turbolinks-prefetch) - Turbolinks extends for prefetch links to speeds up your website.
@@ -638,6 +637,7 @@
 - [hummusonrails/dev_orbit](https://github.com/hummusonrails/dev_orbit) - Integrate your DEV community interactions into your Orbit workspace
 - [getappmap/appmap-ruby](https://github.com/getappmap/appmap-ruby) - AppMap client agent for Ruby
 - [ankane/strong_migrations](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development
+- [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [thekompanee/fuubar](https://github.com/thekompanee/fuubar) - The instafailing RSpec progress bar formatter
 - [moiristo/deep_cloneable](https://github.com/moiristo/deep_cloneable) - This gem gives every ActiveRecord::Base object the possibility to do a deep clone that includes user specified associations.

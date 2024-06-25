@@ -183,7 +183,7 @@
 ## Java 
 
 - [ma1co/OpenMemories-Tweak](https://github.com/ma1co/OpenMemories-Tweak) - Unlock your Sony camera's settings
-- [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
+- [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is an open source time-series database for fast ingest and SQL queries
 - [stml/Austeer](https://github.com/stml/Austeer) - A simple Android app for tracking movement, speed, and steering angle for self-driving car development.
 - [apache/cassandra-java-driver](https://github.com/apache/cassandra-java-driver) - Java Driver for Apache Cassandra®
 - [davidbcook/led-controller](https://github.com/davidbcook/led-controller) - 

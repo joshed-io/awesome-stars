@@ -76,6 +76,7 @@
 ## CSS 
 
 - [dailydotdev/docs](https://github.com/dailydotdev/docs) - The official product docs of daily.dev
+- [orbit-love/orbit-model](https://github.com/orbit-love/orbit-model) - A framework for building high gravity communities 🪐
 - [stephane-monnot/react-vertical-timeline](https://github.com/stephane-monnot/react-vertical-timeline) - Vertical timeline for React.js
 - [ChristopherBiscardi/gatsby-starter-mdx-basic](https://github.com/ChristopherBiscardi/gatsby-starter-mdx-basic) - A minimal gatsby-mdx starter that only tries to set up config to work in src/pages.
 - [leggetter/leggetter.dev](https://github.com/leggetter/leggetter.dev) - Source code for https://leggetter.dev
@@ -200,7 +201,6 @@
 - [orbit-love/panoramica](https://github.com/orbit-love/panoramica) - Explore conversational landscapes with AI - built with Next.js, LangChain, Memgraph, and Orbit
 - [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
 - [derrickreimer/fathom-client](https://github.com/derrickreimer/fathom-client) - A Fathom Analytics library to help with client-side routing
-- [orbit-love/orbit-model](https://github.com/orbit-love/orbit-model) - A framework for building high gravity communities 🪐
 - [emeeks/d3.layout.orbit](https://github.com/emeeks/d3.layout.orbit) - An animated hierarchical layout for d3.js that creates orbits from nested data
 - [brob/orbit-add-member-serverless](https://github.com/brob/orbit-add-member-serverless) - 
 - [alexlsalt/soyouthinkyoucanfrance](https://github.com/alexlsalt/soyouthinkyoucanfrance) - So You Think You Can France is a resource for American teachers in France to find information about cities in France. Built using React and Firebase Firestore. Deployed with Netlify.

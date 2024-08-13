@@ -356,7 +356,7 @@
 - [sirupsen/airrecord](https://github.com/sirupsen/airrecord) - Ruby wrapper for Airtable, your personal database
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [TonicAI/condenser](https://github.com/TonicAI/condenser) - Condenser is a database subsetting tool
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
+- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 
 ## deployment 
 
@@ -567,7 +567,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [Lednerb/bilberry-hugo-theme](https://github.com/Lednerb/bilberry-hugo-theme) - Premium theme for the hugo site builder. DEMO:
 - [openbenches/openbenches.org](https://github.com/openbenches/openbenches.org) - OpenBenches.org - an open data repository for memorial benches
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
+- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 
 ## homebrew 
@@ -597,6 +597,7 @@
 
 ## ios 
 
+- [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [algolia/instantsearch-ios](https://github.com/algolia/instantsearch-ios) - ⚡️ A library of widgets and helpers to build instant-search applications on iOS.
 - [algolia/algoliasearch-client-swift](https://github.com/algolia/algoliasearch-client-swift) - ⚡️ A fully-featured and blazing-fast Swift API client to interact with Algolia.
 
@@ -654,7 +655,7 @@
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [igorprado/react-notification-system](https://github.com/igorprado/react-notification-system) - A complete and totally customizable component for notifications in React
 - [algolia/algoliasearch-client-javascript](https://github.com/algolia/algoliasearch-client-javascript) - ⚡️ A fully-featured and blazing-fast JavaScript API client to interact with Algolia.
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
+- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [babel/babel-eslint](https://github.com/babel/babel-eslint) - :tokyo_tower: A wrapper for Babel's parser used for ESLint (renamed to @babel/eslint-parser)
 - [saintedlama/passport-local-mongoose](https://github.com/saintedlama/passport-local-mongoose) - Passport-Local Mongoose is a Mongoose plugin that simplifies building username and password login with Passport
 - [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
@@ -723,6 +724,7 @@
 
 ## llm 
 
+- [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [orbit-love/panoramica](https://github.com/orbit-love/panoramica) - Explore conversational landscapes with AI - built with Next.js, LangChain, Memgraph, and Orbit
 
@@ -1615,6 +1617,7 @@
 
 ## swift 
 
+- [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
 - [dado3212/ScreenMazer](https://github.com/dado3212/ScreenMazer) - A macOS screensaver that procedurally generates a maze and then solves it
 - [algolia/instantsearch-ios](https://github.com/algolia/instantsearch-ios) - ⚡️ A library of widgets and helpers to build instant-search applications on iOS.

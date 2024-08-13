@@ -366,7 +366,7 @@
 - [pouchdb/add-cors-to-couchdb](https://github.com/pouchdb/add-cors-to-couchdb) - CLI to add a good default CORS configuration to CouchDB
 - [algolia/react-webpack-sass-gulp-template](https://github.com/algolia/react-webpack-sass-gulp-template) - Simple template for building React applications & components (react, webpack, babel, sass, gulp, eslint, hot reload)
 - [pouchdb-community/pouchdb-full-sync](https://github.com/pouchdb-community/pouchdb-full-sync) - Fully replicate PouchDB and CouchDB databases, preserving all revision history
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
+- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [nolanlawson/pouchdb-find](https://github.com/nolanlawson/pouchdb-find) - Easy-to-use query language for PouchDB. ⚠️ NOTICE ⚠️: moved to the PouchDB repo
 - [pouchdb-community/pouchdb-authentication](https://github.com/pouchdb-community/pouchdb-authentication) - User authentication plugin for PouchDB and CouchDB.
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
@@ -843,6 +843,7 @@
 
 ## Swift 
 
+- [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
 - [dado3212/ScreenMazer](https://github.com/dado3212/ScreenMazer) - A macOS screensaver that procedurally generates a maze and then solves it
 - [algolia/instantsearch-ios](https://github.com/algolia/instantsearch-ios) - ⚡️ A library of widgets and helpers to build instant-search applications on iOS.

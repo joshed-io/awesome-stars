@@ -130,6 +130,7 @@
 - [swift](#swift)
 - [swiftui](#swiftui)
 - [symfony](#symfony)
+- [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [testing](#testing)
 - [twitter](#twitter)
@@ -899,7 +900,6 @@
 - [keans/lmnotify](https://github.com/keans/lmnotify) - A package for sending notifications to LaMetric Time.
 - [phazonoverload/orbit-signal](https://github.com/phazonoverload/orbit-signal) - A way to quickly add Orbit activites from your phone, geared towards events
 - [sass/sassc-ruby](https://github.com/sass/sassc-ruby) - Use libsass with Ruby!
-- [orbit-love/orbit-web](https://github.com/orbit-love/orbit-web) - The old website for https://orbit.love
 - [alexlsalt/soyouthinkyoucanfrance](https://github.com/alexlsalt/soyouthinkyoucanfrance) - So You Think You Can France is a resource for American teachers in France to find information about cities in France. Built using React and Firebase Firestore. Deployed with Netlify.
 - [getappmap/appmap-ruby](https://github.com/getappmap/appmap-ruby) - AppMap client agent for Ruby
 - [ankane/strong_migrations](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development
@@ -1630,6 +1630,11 @@
 ## symfony 
 
 - [parti-renaissance/espace-adherent](https://github.com/parti-renaissance/espace-adherent) - Le site principal du parti Renaissance
+
+## tailwindcss 
+
+- [orbit-love/orbit-web](https://github.com/orbit-love/orbit-web) - The old website for https://orbit.love
+- [excid3/tailwindcss-stimulus-components](https://github.com/excid3/tailwindcss-stimulus-components) - A set of StimulusJS components for TailwindCSS apps similar to Bootstrap JS components.
 
 ## terminal 
 

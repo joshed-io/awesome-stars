@@ -197,6 +197,7 @@
 
 ## JavaScript 
 
+- [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [typesense/typesense-instantsearch-adapter](https://github.com/typesense/typesense-instantsearch-adapter) - A JS adapter library to build rich search interfaces with Typesense and InstantSearch.js
 - [typesense/showcase-hn-comments-semantic-search](https://github.com/typesense/showcase-hn-comments-semantic-search) - Semantic Search + Keyword Search + Hybrid Search + Filtering + Faceting on 300K HN Comments
 - [orbit-love/panoramica](https://github.com/orbit-love/panoramica) - Explore conversational landscapes with AI - built with Next.js, LangChain, Memgraph, and Orbit

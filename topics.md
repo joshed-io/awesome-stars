@@ -22,6 +22,7 @@
 - [bash](#bash)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -269,6 +270,10 @@
 
 - [slackapi/hubot-slack](https://github.com/slackapi/hubot-slack) - Slack Developer Kit for Hubot
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
+
+## c-plus-plus 
+
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 ## chatgpt 
 
@@ -883,6 +888,7 @@
 
 ## others 
 
+- [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [JohnnyPeng18/APIBench](https://github.com/JohnnyPeng18/APIBench) - APIBench is a benchmark for evaluating the performance of API recommendation approaches released in the paper "Revisiting, Benchmarking and Exploring APIRecommendation: How Far Are We?".
 - [ma1co/OpenMemories-Tweak](https://github.com/ma1co/OpenMemories-Tweak) - Unlock your Sony camera's settings
 - [ma1co/Sony-PMCA-RE](https://github.com/ma1co/Sony-PMCA-RE) - Reverse Engineering Sony Digital Cameras

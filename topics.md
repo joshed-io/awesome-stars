@@ -899,6 +899,7 @@
 
 ## others 
 
+- [rileytestut/Delta](https://github.com/rileytestut/Delta) - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [JohnnyPeng18/APIBench](https://github.com/JohnnyPeng18/APIBench) - APIBench is a benchmark for evaluating the performance of API recommendation approaches released in the paper "Revisiting, Benchmarking and Exploring APIRecommendation: How Far Are We?".
 - [ma1co/OpenMemories-Tweak](https://github.com/ma1co/OpenMemories-Tweak) - Unlock your Sony camera's settings

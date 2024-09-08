@@ -71,6 +71,7 @@
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
+- [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
 - [ipfs](#ipfs)
@@ -623,6 +624,11 @@
 
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [flippercloud/flipper](https://github.com/flippercloud/flipper) - 🐬 Beautiful, performant feature flags for Ruby.
+
+## instagram 
+
+- [sugarshin/react-instagram-embed](https://github.com/sugarshin/react-instagram-embed) - The React component for embedding Instagram posts
+- [sabinbajracharya/Insta-crawler](https://github.com/sabinbajracharya/Insta-crawler) - Pulls data from instagram and saves it to Firebase for storage and Algolia for search
 
 ## ios 
 

@@ -904,7 +904,7 @@
 - [prisma/migrate](https://github.com/prisma/migrate) - Issues for Prisma Migrate are now tracked at prisma/prisma. This repo was used to track issues for Prisma Migrate Experimental and is now deprecated.
 - [hubtype/botonic](https://github.com/hubtype/botonic) - Build chatbots and conversational experiences using React
 - [jasonkuhrt/graffle](https://github.com/jasonkuhrt/graffle) - Minimal GraphQL client
-- [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
+- [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [marnusw/cloudinary-tiny-js](https://github.com/marnusw/cloudinary-tiny-js) - A much smaller alternative to cloudinary-core for client side image transformations
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.

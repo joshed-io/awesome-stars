@@ -106,6 +106,7 @@
 - [nosql](#nosql)
 - [npm](#npm)
 - [open-source](#open-source)
+- [openai](#openai)
 - [others](#others)
 - [package-manager](#package-manager)
 - [php](#php)
@@ -902,6 +903,11 @@
 - [algolia/instantsearch-android](https://github.com/algolia/instantsearch-android) - A library of widgets and helpers to build instant-search applications on Android.
 - [algolia/algolia.github.io](https://github.com/algolia/algolia.github.io) - Algolia's community projects
 - [nayafia/contributing-template](https://github.com/nayafia/contributing-template) - Template for writing your own contributing guide
+
+## openai 
+
+- [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 
 ## others 
 

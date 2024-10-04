@@ -419,7 +419,6 @@
 - [PatrickJS/angular-keen.io](https://github.com/PatrickJS/angular-keen.io) - An Angular.js wrapper for Keen.io
 - [dougtoppin/keen-congress-vote](https://github.com/dougtoppin/keen-congress-vote) - Experiment using the Keen NodeJS api to import and analyze congressional vote data
 - [dustinlarimer/multitask](https://github.com/dustinlarimer/multitask) - Gulp-style control flow for keeping asynchronous tasks in line
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [keen/common-web](https://github.com/keen/common-web) - Turn web user activity into a analyzable stream of JSON event data
 - [Miserlou/Glance-Bookmarklet](https://github.com/Miserlou/Glance-Bookmarklet) - A Speed Reading Bookmarklet
 - [haeric/bailey.js](https://github.com/haeric/bailey.js) - Coffee without the bitter aftertaste....
@@ -928,6 +927,7 @@
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [keen/explorer](https://github.com/keen/explorer) - Data Explorer by Keen - point-and-click interface for analyzing and visualizing event data.
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 

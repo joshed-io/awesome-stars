@@ -117,6 +117,7 @@
 
 ## Go 
 
+- [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
 - [ghuntley/orbit-cli](https://github.com/ghuntley/orbit-cli) - a command line interface to orbit.love
@@ -575,6 +576,8 @@
 
 ## Python 
 
+- [fetchai/agents-aea](https://github.com/fetchai/agents-aea) - A framework for autonomous economic agent (AEA) development
+- [fetchai/uAgents](https://github.com/fetchai/uAgents) - A fast and lightweight framework for creating decentralized agents with ease.
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build and query dynamic, temporally-aware Knowledge Graphs
 - [AI-Engineer-Foundation/agent-protocol](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
@@ -814,6 +817,7 @@
 
 ## Rust 
 
+- [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
 

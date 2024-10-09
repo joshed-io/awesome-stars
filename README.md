@@ -823,7 +823,7 @@
 
 ## SCSS 
 
-- [tomkra/font_awesome5_rails](https://github.com/tomkra/font_awesome5_rails) - font_awesome_5_rails is font awesome 5 gem bundled for rails asset pipeline
+- [tomkr4l/font_awesome5_rails](https://github.com/tomkr4l/font_awesome5_rails) - font_awesome_5_rails is font awesome 5 gem bundled for rails asset pipeline
 - [tr1s/tris-webpack-boilerplate](https://github.com/tr1s/tris-webpack-boilerplate) - A Webpack boilerplate for static websites that has all the necessary modern tools and optimizations built-in. Score a perfect 10/10 on performance.
 - [grantmakers/grantmakers.github.io](https://github.com/grantmakers/grantmakers.github.io) - Grantmakers.io is a free, open source project built to help nonprofits utilize the incredible IRS electronic 990-PF dataset.
 - [algolia/algolia.github.io](https://github.com/algolia/algolia.github.io) - Algolia's community projects

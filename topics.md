@@ -1479,7 +1479,7 @@
 - [excid3/noticed](https://github.com/excid3/noticed) - Notifications for Ruby on Rails applications
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc from cience.com
 - [scenic-views/scenic](https://github.com/scenic-views/scenic) - Versioned database views for Rails
-- [tomkra/font_awesome5_rails](https://github.com/tomkra/font_awesome5_rails) - font_awesome_5_rails is font awesome 5 gem bundled for rails asset pipeline
+- [tomkr4l/font_awesome5_rails](https://github.com/tomkr4l/font_awesome5_rails) - font_awesome_5_rails is font awesome 5 gem bundled for rails asset pipeline
 - [appfolio/store_base_sti_class](https://github.com/appfolio/store_base_sti_class) - Modifies ActiveRecord 4+ with the ability to store the actual class (instead of the base class) in polymorphic _type columns when using STI
 - [flippercloud/flipper](https://github.com/flippercloud/flipper) - 🐬 Beautiful, performant feature flags for Ruby.
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails

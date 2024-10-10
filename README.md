@@ -58,6 +58,7 @@
 
 ## C# # 
 
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [dharnitski/Sitecore.Algolia](https://github.com/dharnitski/Sitecore.Algolia) - Sitecore search provider for Algolia
 - [dharnitski/Algolia.Sitecore.UI](https://github.com/dharnitski/Algolia.Sitecore.UI) - Algolia simple UI for Sitecore
 - [keenlabs/keen-sdk-net](https://github.com/keenlabs/keen-sdk-net) - A .NET SDK for the Keen IO API
@@ -461,7 +462,6 @@
 
 ## Jupyter Notebook 
 
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [ansonyuu/matchmaking](https://github.com/ansonyuu/matchmaking) - Embedding space of names clustered based on their interests using the sentence-transformers all-MiniLM-L6-v2 model
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
 

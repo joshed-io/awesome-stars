@@ -58,7 +58,6 @@
 
 ## C# # 
 
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [dharnitski/Sitecore.Algolia](https://github.com/dharnitski/Sitecore.Algolia) - Sitecore search provider for Algolia
 - [dharnitski/Algolia.Sitecore.UI](https://github.com/dharnitski/Algolia.Sitecore.UI) - Algolia simple UI for Sitecore
 - [keenlabs/keen-sdk-net](https://github.com/keenlabs/keen-sdk-net) - A .NET SDK for the Keen IO API
@@ -200,6 +199,7 @@
 
 ## JavaScript 
 
+- [postmanlabs/openapi-to-postman](https://github.com/postmanlabs/openapi-to-postman) - Plugin for converting OpenAPI 3.0 specs to the Postman Collection (v2) format
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [typesense/typesense-instantsearch-adapter](https://github.com/typesense/typesense-instantsearch-adapter) - A JS adapter library to build rich search interfaces with Typesense and InstantSearch.js
 - [typesense/showcase-hn-comments-semantic-search](https://github.com/typesense/showcase-hn-comments-semantic-search) - Semantic Search + Keyword Search + Hybrid Search + Filtering + Faceting on 300K HN Comments
@@ -462,6 +462,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [ansonyuu/matchmaking](https://github.com/ansonyuu/matchmaking) - Embedding space of names clustered based on their interests using the sentence-transformers all-MiniLM-L6-v2 model
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
 

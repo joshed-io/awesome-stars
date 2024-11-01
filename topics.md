@@ -422,7 +422,7 @@
 
 ## discord 
 
-- [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
+- [tealbathingsuit/accord](https://github.com/tealbathingsuit/accord) - a discord client for modern macs
 
 ## docker 
 
@@ -591,7 +591,7 @@
 - [dailydotdev/docs](https://github.com/dailydotdev/docs) - The official product docs of daily.dev
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [JupiterOne/starbase](https://github.com/JupiterOne/starbase) - Graph-based security analysis for everyone
-- [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
+- [tealbathingsuit/accord](https://github.com/tealbathingsuit/accord) - a discord client for modern macs
 - [orbit-love/github-actions-templates](https://github.com/orbit-love/github-actions-templates) - Starter GitHub Actions templates to get you up and running with community built integrations
 - [salsify/goldiloader](https://github.com/salsify/goldiloader) - Just the right amount of Rails eager loading
 - [excid3/noticed](https://github.com/excid3/noticed) - Notifications for Ruby on Rails applications
@@ -611,7 +611,6 @@
 - [jwt/ruby-jwt](https://github.com/jwt/ruby-jwt) - A ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard.
 - [rmosolgo/graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
@@ -624,6 +623,7 @@
 - [openbenches/openbenches.org](https://github.com/openbenches/openbenches.org) - OpenBenches.org - an open data repository for memorial benches
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
+- [microjs/microjs.com](https://github.com/microjs/microjs.com) - Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
 
 ## homebrew 
 
@@ -811,7 +811,7 @@
 ## macos 
 
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
-- [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
+- [tealbathingsuit/accord](https://github.com/tealbathingsuit/accord) - a discord client for modern macs
 - [teomores/seabolt-M1](https://github.com/teomores/seabolt-M1) - Neo4j Bolt Connector for the M1 MacBook Pro
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [dado3212/ScreenMazer](https://github.com/dado3212/ScreenMazer) - A macOS screensaver that procedurally generates a maze and then solves it
@@ -1700,14 +1700,14 @@
 ## swift 
 
 - [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
-- [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
+- [tealbathingsuit/accord](https://github.com/tealbathingsuit/accord) - a discord client for modern macs
 - [dado3212/ScreenMazer](https://github.com/dado3212/ScreenMazer) - A macOS screensaver that procedurally generates a maze and then solves it
 - [algolia/instantsearch-ios](https://github.com/algolia/instantsearch-ios) - ⚡️ A library of widgets and helpers to build instant-search applications on iOS.
 - [algolia/algoliasearch-client-swift](https://github.com/algolia/algoliasearch-client-swift) - ⚡️ A fully-featured and blazing-fast Swift API client to interact with Algolia.
 
 ## swiftui 
 
-- [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
+- [tealbathingsuit/accord](https://github.com/tealbathingsuit/accord) - a discord client for modern macs
 
 ## symfony 
 
@@ -1721,7 +1721,7 @@
 ## terminal 
 
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 

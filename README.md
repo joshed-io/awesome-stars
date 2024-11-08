@@ -592,7 +592,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [fishbigger/TapoP100](https://github.com/fishbigger/TapoP100) - A module for controlling the TP-Link Tapo P100 Plugs
 - [keans/lmnotify](https://github.com/keans/lmnotify) - A package for sending notifications to LaMetric Time.
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [SavannahHQ/Savannah](https://github.com/SavannahHQ/Savannah) - Savannah is a Community Relationship Manager (CoRM), which is like a Customer Relationship Manager (CRM) but with a focus on community building rather than sales.
 - [act-now-coalition/covid-data-model](https://github.com/act-now-coalition/covid-data-model) - Data backend providing computed data for the graphs displayed at https://covidactnow.org
 - [codepost-io/codepost-python](https://github.com/codepost-io/codepost-python) - Provides a convenient Python interface to the codePost API. Start scripting!

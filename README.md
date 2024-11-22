@@ -209,6 +209,7 @@
 - [derrickreimer/fathom-client](https://github.com/derrickreimer/fathom-client) - A Fathom Analytics library to help with client-side routing
 - [emeeks/d3.layout.orbit](https://github.com/emeeks/d3.layout.orbit) - An animated hierarchical layout for d3.js that creates orbits from nested data
 - [brob/orbit-add-member-serverless](https://github.com/brob/orbit-add-member-serverless) - 
+- [pawurb/rails-pg-extras](https://github.com/pawurb/rails-pg-extras) - Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
 - [alexlsalt/soyouthinkyoucanfrance](https://github.com/alexlsalt/soyouthinkyoucanfrance) - So You Think You Can France is a resource for American teachers in France to find information about cities in France. Built using React and Firebase Firestore. Deployed with Netlify.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [prettier/plugin-haml](https://github.com/prettier/plugin-haml) - Plugin for the HAML template language
@@ -635,7 +636,6 @@
 - [rails/importmap-rails](https://github.com/rails/importmap-rails) - Use ESM with importmap to manage modern JavaScript in Rails without transpiling or bundling.
 - [rails/tailwindcss-rails](https://github.com/rails/tailwindcss-rails) - 
 - [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
-- [pawurb/rails-pg-extras](https://github.com/pawurb/rails-pg-extras) - Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
 - [ankane/pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to another
 - [billaul/active_period](https://github.com/billaul/active_period) - Smart-Period aims to simplify Time-range manipulation
 - [mbj/mutant](https://github.com/mbj/mutant) - Automated code reviews via mutation testing - semantic code coverage.

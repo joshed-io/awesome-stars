@@ -126,7 +126,7 @@
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
 - [spencerkimball/stargazers](https://github.com/spencerkimball/stargazers) - Analyze GitHub stars
 - [Ullaakut/astronomer](https://github.com/Ullaakut/astronomer) - A tool to detect illegitimate stars from bot accounts on GitHub projects
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The database for modern applications. Common use cases: knowledge graphs for AI, fraud detection, personalization, and search. Built and maintained by @HypermodeInc.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [bxcodec/faker](https://github.com/bxcodec/faker) - Go (Golang)  Fake Data  Generator for Struct. [Notes]This repository is archived, moved to the new repository https://github.com/go-faker/faker
@@ -209,7 +209,6 @@
 - [derrickreimer/fathom-client](https://github.com/derrickreimer/fathom-client) - A Fathom Analytics library to help with client-side routing
 - [emeeks/d3.layout.orbit](https://github.com/emeeks/d3.layout.orbit) - An animated hierarchical layout for d3.js that creates orbits from nested data
 - [brob/orbit-add-member-serverless](https://github.com/brob/orbit-add-member-serverless) - 
-- [pawurb/rails-pg-extras](https://github.com/pawurb/rails-pg-extras) - Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
 - [alexlsalt/soyouthinkyoucanfrance](https://github.com/alexlsalt/soyouthinkyoucanfrance) - So You Think You Can France is a resource for American teachers in France to find information about cities in France. Built using React and Firebase Firestore. Deployed with Netlify.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [prettier/plugin-haml](https://github.com/prettier/plugin-haml) - Plugin for the HAML template language
@@ -464,6 +463,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [ansonyuu/matchmaking](https://github.com/ansonyuu/matchmaking) - Embedding space of names clustered based on their interests using the sentence-transformers all-MiniLM-L6-v2 model
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
 
@@ -581,7 +581,6 @@
 - [fetchai/agents-aea](https://github.com/fetchai/agents-aea) - A framework for autonomous economic agent (AEA) development
 - [fetchai/uAgents](https://github.com/fetchai/uAgents) - A fast and lightweight framework for creating decentralized agents with ease.
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build and query dynamic, temporally-aware Knowledge Graphs
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [AI-Engineer-Foundation/agent-protocol](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [ma1co/Sony-PMCA-RE](https://github.com/ma1co/Sony-PMCA-RE) - Reverse Engineering Sony Digital Cameras
@@ -636,6 +635,7 @@
 - [rails/importmap-rails](https://github.com/rails/importmap-rails) - Use ESM with importmap to manage modern JavaScript in Rails without transpiling or bundling.
 - [rails/tailwindcss-rails](https://github.com/rails/tailwindcss-rails) - 
 - [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
+- [pawurb/rails-pg-extras](https://github.com/pawurb/rails-pg-extras) - Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
 - [ankane/pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to another
 - [billaul/active_period](https://github.com/billaul/active_period) - Smart-Period aims to simplify Time-range manipulation
 - [mbj/mutant](https://github.com/mbj/mutant) - Automated code reviews via mutation testing - semantic code coverage.

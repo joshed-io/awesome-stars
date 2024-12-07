@@ -76,7 +76,6 @@
 - [http](#http)
 - [instagram](#instagram)
 - [ios](#ios)
-- [iot](#iot)
 - [ipfs](#ipfs)
 - [java](#java)
 - [javascript](#javascript)
@@ -174,7 +173,6 @@
 
 - [derrickreimer/fathom-client](https://github.com/derrickreimer/fathom-client) - A Fathom Analytics library to help with client-side routing
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
-- [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is an open source time-series database for fast ingest and SQL queries
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [keen/auto-collector-dashboard](https://github.com/keen/auto-collector-dashboard) - An instant analytics dashboard for Keen Auto-Collector
 - [micro-analytics/micro-analytics-cli](https://github.com/micro-analytics/micro-analytics-cli) - Public analytics as a Node.js microservice. No sysadmin experience required! 📈
@@ -290,13 +288,13 @@
 
 ## chatbot 
 
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc from cience.com
 
 ## chatgpt 
 
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
@@ -599,7 +597,6 @@
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 - [stimulusreflex/cable_ready](https://github.com/stimulusreflex/cable_ready) - Use simple commands on the server to control client browsers in real-time
 - [excid3/tailwindcss-stimulus-components](https://github.com/excid3/tailwindcss-stimulus-components) - A set of StimulusJS components for TailwindCSS apps similar to Bootstrap JS components.
-- [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is an open source time-series database for fast ingest and SQL queries
 - [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
 - [orbit-love/devrel-kpis](https://github.com/orbit-love/devrel-kpis) - A community-sourced resource of metrics and methods for proving ROI through data + story. Advice from around the DevRel and Community world.
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
@@ -660,10 +657,6 @@
 - [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [algolia/instantsearch-ios](https://github.com/algolia/instantsearch-ios) - ⚡️ A library of widgets and helpers to build instant-search applications on iOS.
 - [algolia/algoliasearch-client-swift](https://github.com/algolia/algoliasearch-client-swift) - ⚡️ A fully-featured and blazing-fast Swift API client to interact with Algolia.
-
-## iot 
-
-- [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is an open source time-series database for fast ingest and SQL queries
 
 ## ipfs 
 

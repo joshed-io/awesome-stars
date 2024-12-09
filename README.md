@@ -648,7 +648,7 @@
 - [salsify/goldiloader](https://github.com/salsify/goldiloader) - Just the right amount of Rails eager loading
 - [excid3/noticed](https://github.com/excid3/noticed) - Notifications for Ruby on Rails applications
 - [hummusonrails/dev_orbit](https://github.com/hummusonrails/dev_orbit) - Integrate your DEV community interactions into your Orbit workspace
-- [getappmap/appmap-ruby](https://github.com/getappmap/appmap-ruby) - AppMap client agent for Ruby
+- [getappmap/appmap-ruby](https://github.com/getappmap/appmap-ruby) - AppMap client library for Ruby
 - [ankane/strong_migrations](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)

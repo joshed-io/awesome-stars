@@ -972,7 +972,6 @@
 - [phazonoverload/orbit-signal](https://github.com/phazonoverload/orbit-signal) - A way to quickly add Orbit activites from your phone, geared towards events
 - [sass/sassc-ruby](https://github.com/sass/sassc-ruby) - Use libsass with Ruby!
 - [alexlsalt/soyouthinkyoucanfrance](https://github.com/alexlsalt/soyouthinkyoucanfrance) - So You Think You Can France is a resource for American teachers in France to find information about cities in France. Built using React and Firebase Firestore. Deployed with Netlify.
-- [getappmap/appmap-ruby](https://github.com/getappmap/appmap-ruby) - AppMap client agent for Ruby
 - [ankane/strong_migrations](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
@@ -1583,6 +1582,7 @@
 - [igorkasyanchuk/rails_performance](https://github.com/igorkasyanchuk/rails_performance) - Monitor performance of you Rails applications (self-hosted and free)
 - [excid3/noticed](https://github.com/excid3/noticed) - Notifications for Ruby on Rails applications
 - [hummusonrails/dev_orbit](https://github.com/hummusonrails/dev_orbit) - Integrate your DEV community interactions into your Orbit workspace
+- [getappmap/appmap-ruby](https://github.com/getappmap/appmap-ruby) - AppMap client library for Ruby
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [gaffneyc/heroku-buildpack-jemalloc](https://github.com/gaffneyc/heroku-buildpack-jemalloc) - Heroku buildpack that installs the Jemalloc memory allocator
 - [scenic-views/scenic](https://github.com/scenic-views/scenic) - Versioned database views for Rails

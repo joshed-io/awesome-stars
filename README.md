@@ -463,7 +463,7 @@
 
 ## Jupyter Notebook 
 
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [ansonyuu/matchmaking](https://github.com/ansonyuu/matchmaking) - Embedding space of names clustered based on their interests using the sentence-transformers all-MiniLM-L6-v2 model
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
 

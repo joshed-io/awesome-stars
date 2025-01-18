@@ -14,7 +14,6 @@
 - [CoffeeScript](#coffeescript)
 - [Crystal](#crystal)
 - [Dockerfile](#dockerfile)
-- [Gherkin](#gherkin)
 - [Go](#go)
 - [HTML](#html)
 - [Haml](#haml)
@@ -110,10 +109,6 @@
 ## Dockerfile 
 
 - [PagerDuty/incident-response-docs](https://github.com/PagerDuty/incident-response-docs) - PagerDuty's Incident Response Documentation.
-
-## Gherkin 
-
-- [thoughtbot/factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails) - Factory Bot ♥ Rails
 
 ## Go 
 
@@ -640,6 +635,7 @@
 - [billaul/active_period](https://github.com/billaul/active_period) - Smart-Period aims to simplify Time-range manipulation
 - [mbj/mutant](https://github.com/mbj/mutant) - Automated code reviews via mutation testing - semantic code coverage.
 - [teoljungberg/fx](https://github.com/teoljungberg/fx) - Versioned database functions and triggers for Rails
+- [thoughtbot/factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails) - Factory Bot ♥ Rails
 - [phacks/notion-ruby-client](https://github.com/phacks/notion-ruby-client) - A Ruby client for the Notion API
 - [krisleech/wisper](https://github.com/krisleech/wisper) - A micro library providing Ruby objects with Publish-Subscribe capabilities
 - [sass/sassc-ruby](https://github.com/sass/sassc-ruby) - Use libsass with Ruby!

@@ -236,7 +236,7 @@
 - [drop-ice/dear-github-2.0](https://github.com/drop-ice/dear-github-2.0) - 📨 An open letter to GitHub from the maintainers of open source projects
 - [CleverCloud/clever-tools](https://github.com/CleverCloud/clever-tools) - The official command line interface for Clever Cloud
 - [martyndavies/legit](https://github.com/martyndavies/legit) - NodeJS library for checking MX records exist on a domain
-- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 - [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
 - [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
 - [laysent/eslint-import-resolver-custom-alias](https://github.com/laysent/eslint-import-resolver-custom-alias) - Plugin for eslint-plugin-import to use custom alias

@@ -170,6 +170,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 
 ## analytics 
 
@@ -206,6 +207,7 @@
 - [flippercloud/flipper](https://github.com/flippercloud/flipper) - 🐬 Beautiful, performant feature flags for Ruby.
 - [ruby-grape/grape](https://github.com/ruby-grape/grape) - An opinionated framework for creating REST-like APIs in Ruby.
 - [codepost-io/codepost-python](https://github.com/codepost-io/codepost-python) - Provides a convenient Python interface to the codePost API. Start scripting!
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [RapidAPI/rapidql](https://github.com/RapidAPI/rapidql) - Query multiple APIs and DBs and join them in a single query
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [drublic/contentful-to-algolia](https://github.com/drublic/contentful-to-algolia) - ⚡️ Transmit content from any Contentful type to Algolia indexes
@@ -1065,7 +1067,7 @@
 - [rubyide/vscode-ruby](https://github.com/rubyide/vscode-ruby) - Provides Ruby language and debugging support for Visual Studio Code
 - [sanity-io/block-content-to-react](https://github.com/sanity-io/block-content-to-react) - Deprecated in favor of @portabletext/react
 - [sanity-io/tutorial-sanity-blog-react-next](https://github.com/sanity-io/tutorial-sanity-blog-react-next) - Front-end code for the Sanity, React, Next.js tutorial.
-- [happo/happo.io](https://github.com/happo/happo.io) - Happo is a cross-browser screenshot testing service
+- [happo/happo.io](https://github.com/happo/happo.io) - Happo is a cross-browser screenshot testing service for continuous integration. It can be used standalone or integrated with Storybook, Cypress, Playwright, and more.
 - [AMekss/devise_custom_authenticatable](https://github.com/AMekss/devise_custom_authenticatable) - Simple way to customize devise authentication logic and still be inline with all other devise parts
 - [guard/guard-rspec](https://github.com/guard/guard-rspec) - Guard::RSpec automatically run your specs (much like autotest)
 - [skevy/graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
@@ -1639,7 +1641,6 @@
 ## rust 
 
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 
 ## sass 
 

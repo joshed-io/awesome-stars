@@ -248,7 +248,6 @@
 - [happo/happo.io](https://github.com/happo/happo.io) - Happo is a cross-browser screenshot testing service for continuous integration. It can be used standalone or integrated with Storybook, Cypress, Playwright, and more.
 - [GSA/code-gov-github-metrics](https://github.com/GSA/code-gov-github-metrics) - GitHub metrics report generator for code.gov repos
 - [skevy/graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
-- [rmosolgo/graphiql-rails](https://github.com/rmosolgo/graphiql-rails) - Mount the GraphiQL query editor in a Rails app
 - [matthewmueller/next-cookies](https://github.com/matthewmueller/next-cookies) - Tiny little function for getting cookies on both client & server with next.js.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [iaincollins/nextjs-starter](https://github.com/iaincollins/nextjs-starter) - A starter project for Next.js with authentication
@@ -723,6 +722,7 @@
 - [guard/guard-rspec](https://github.com/guard/guard-rspec) - Guard::RSpec automatically run your specs (much like autotest)
 - [jwt/ruby-jwt](https://github.com/jwt/ruby-jwt) - A ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard.
 - [zauberware/rails-devise-graphql](https://github.com/zauberware/rails-devise-graphql) - A Rails 6 boilerplate to create your next Saas product. Preloaded with graphQL, devise, JWT, CanCanCan, RailsAdmin, Rubocop, Rspec, i18n and more.
+- [rmosolgo/graphiql-rails](https://github.com/rmosolgo/graphiql-rails) - Mount the GraphiQL query editor in a Rails app
 - [rmosolgo/graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL
 - [algolia/algoliasearch-rails](https://github.com/algolia/algoliasearch-rails) - AlgoliaSearch integration to your favorite ORM
 - [pundit-community/pundit-matchers](https://github.com/pundit-community/pundit-matchers) - A set of RSpec matchers for testing Pundit authorisation policies.

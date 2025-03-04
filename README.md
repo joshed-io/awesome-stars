@@ -862,6 +862,7 @@
 
 ## TypeScript 
 
+- [snaggle-ai/openapi-mcp-server](https://github.com/snaggle-ai/openapi-mcp-server) - 
 - [jonico/typescript-anthropic-tool-use-example](https://github.com/jonico/typescript-anthropic-tool-use-example) - An example of using the Anthropic API with tool use capabilities from typescript
 - [vercel-labs/ai-sdk-preview-multi-steps](https://github.com/vercel-labs/ai-sdk-preview-multi-steps) - 
 - [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.

@@ -194,6 +194,7 @@
 
 ## JavaScript 
 
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [postmanlabs/openapi-to-postman](https://github.com/postmanlabs/openapi-to-postman) - Plugin for converting OpenAPI 3.0 specs to the Postman Collection (v2) format
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
@@ -484,6 +485,7 @@
 
 ## Others 
 
+- [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol) - Specification of the Farcaster Protocol
 - [JohnnyPeng18/APIBench](https://github.com/JohnnyPeng18/APIBench) - APIBench is a benchmark for evaluating the performance of API recommendation approaches released in the paper "Revisiting, Benchmarking and Exploring APIRecommendation: How Far Are We?".
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
@@ -571,6 +573,7 @@
 
 ## Python 
 
+- [memgraph/mcp-memgraph](https://github.com/memgraph/mcp-memgraph) - Memgraph MCP Server
 - [fetchai/agents-aea](https://github.com/fetchai/agents-aea) - A framework for autonomous economic agent (AEA) development
 - [fetchai/uAgents](https://github.com/fetchai/uAgents) - A fast and lightweight framework for creating decentralized agents with ease.
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build and query dynamic, temporally-aware Knowledge Graphs
@@ -617,6 +620,7 @@
 
 ## Ruby 
 
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI. No configuration madness, no complex callbacks, no handler hell – just beautiful, expressive Ruby code.
 - [rubycdp/ferrum](https://github.com/rubycdp/ferrum) - Headless Chrome Ruby API
 - [rubycdp/vessel](https://github.com/rubycdp/vessel) - Fast high-level web crawling Ruby framework
 - [mdsol/grell](https://github.com/mdsol/grell) - Web crawler with a Ruby API
@@ -862,6 +866,7 @@
 
 ## TypeScript 
 
+- [farcasterxyz/hub-monorepo](https://github.com/farcasterxyz/hub-monorepo) - Implementation of the Farcaster Hub specification and supporting libraries for building applications on Farcaster
 - [snaggle-ai/openapi-mcp-server](https://github.com/snaggle-ai/openapi-mcp-server) - 
 - [jonico/typescript-anthropic-tool-use-example](https://github.com/jonico/typescript-anthropic-tool-use-example) - An example of using the Anthropic API with tool use capabilities from typescript
 - [vercel-labs/ai-sdk-preview-multi-steps](https://github.com/vercel-labs/ai-sdk-preview-multi-steps) - 

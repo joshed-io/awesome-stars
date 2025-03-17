@@ -194,6 +194,7 @@
 
 ## JavaScript 
 
+- [gskril/searchcaster](https://github.com/gskril/searchcaster) - Search casts and profiles on the Farcaster protocol
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [postmanlabs/openapi-to-postman](https://github.com/postmanlabs/openapi-to-postman) - Plugin for converting OpenAPI 3.0 specs to the Postman Collection (v2) format
@@ -573,6 +574,7 @@
 
 ## Python 
 
+- [andrewhong5297/farcaster-explorer](https://github.com/andrewhong5297/farcaster-explorer) - The repo behind the Dune dashboard https://dune.com/ilemi/farcaster-explorer
 - [memgraph/mcp-memgraph](https://github.com/memgraph/mcp-memgraph) - Memgraph MCP Server
 - [fetchai/agents-aea](https://github.com/fetchai/agents-aea) - A framework for autonomous economic agent (AEA) development
 - [fetchai/uAgents](https://github.com/fetchai/uAgents) - A fast and lightweight framework for creating decentralized agents with ease.
@@ -866,6 +868,7 @@
 
 ## TypeScript 
 
+- [gskril/farcaster-indexer](https://github.com/gskril/farcaster-indexer) - Save all data from the Farcaster protocol to Postgres
 - [farcasterxyz/hub-monorepo](https://github.com/farcasterxyz/hub-monorepo) - Implementation of the Farcaster Hub specification and supporting libraries for building applications on Farcaster
 - [snaggle-ai/openapi-mcp-server](https://github.com/snaggle-ai/openapi-mcp-server) - 
 - [jonico/typescript-anthropic-tool-use-example](https://github.com/jonico/typescript-anthropic-tool-use-example) - An example of using the Anthropic API with tool use capabilities from typescript

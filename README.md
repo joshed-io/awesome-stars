@@ -776,7 +776,7 @@
 - [keen/keen-cli](https://github.com/keen/keen-cli) - A command line interface for Keen IO
 - [joshed-io/github-webhook-collector](https://github.com/joshed-io/github-webhook-collector) - Add a Keen IO webhook to all your Github repositories
 - [joshed-io/github-trends](https://github.com/joshed-io/github-trends) - Visualize your organization's Github repository stats over time. Live demo:
-- [hanami/hanami](https://github.com/hanami/hanami) - The web, with simplicity.
+- [hanami/hanami](https://github.com/hanami/hanami) - A flexible framework for maintainable Ruby apps
 - [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
 - [mattetti/googlecharts](https://github.com/mattetti/googlecharts) - Ruby Google Chart API
 - [joshed-io/aud](https://github.com/joshed-io/aud) - Play MIDI tones according to text patterns in log files
@@ -868,6 +868,7 @@
 
 ## TypeScript 
 
+- [Beyond-Network-AI/beyond-mcp-server](https://github.com/Beyond-Network-AI/beyond-mcp-server) - An Extensible Model Context Protocol (MCP) server
 - [gskril/farcaster-indexer](https://github.com/gskril/farcaster-indexer) - Save all data from the Farcaster protocol to Postgres
 - [farcasterxyz/hub-monorepo](https://github.com/farcasterxyz/hub-monorepo) - Implementation of the Farcaster Hub specification and supporting libraries for building applications on Farcaster
 - [snaggle-ai/openapi-mcp-server](https://github.com/snaggle-ai/openapi-mcp-server) - 

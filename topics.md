@@ -212,7 +212,7 @@
 - [RapidAPI/rapidql](https://github.com/RapidAPI/rapidql) - Query multiple APIs and DBs and join them in a single query
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [drublic/contentful-to-algolia](https://github.com/drublic/contentful-to-algolia) - ⚡️ Transmit content from any Contentful type to Algolia indexes
-- [hanami/hanami](https://github.com/hanami/hanami) - The web, with simplicity.
+- [hanami/hanami](https://github.com/hanami/hanami) - A flexible framework for maintainable Ruby apps
 
 ## artificial-intelligence 
 
@@ -937,6 +937,8 @@
 
 ## others 
 
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+- [Beyond-Network-AI/beyond-mcp-server](https://github.com/Beyond-Network-AI/beyond-mcp-server) - An Extensible Model Context Protocol (MCP) server
 - [andrewhong5297/farcaster-explorer](https://github.com/andrewhong5297/farcaster-explorer) - The repo behind the Dune dashboard https://dune.com/ilemi/farcaster-explorer
 - [gskril/searchcaster](https://github.com/gskril/searchcaster) - Search casts and profiles on the Farcaster protocol
 - [gskril/farcaster-indexer](https://github.com/gskril/farcaster-indexer) - Save all data from the Farcaster protocol to Postgres
@@ -1646,7 +1648,7 @@
 - [countries/countries](https://github.com/countries/countries) - All sorts of useful information about every country packaged as convenient little country objects. It includes data from ISO 3166 (countries and states/subdivisions ), ISO 4217 (currency), and E.164 (
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [fnando/browser](https://github.com/fnando/browser) - Do some browser detection with Ruby. Includes ActionController integration.
-- [hanami/hanami](https://github.com/hanami/hanami) - The web, with simplicity.
+- [hanami/hanami](https://github.com/hanami/hanami) - A flexible framework for maintainable Ruby apps
 - [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
 - [ruby-amqp/amqp](https://github.com/ruby-amqp/amqp) - EventMachine-based RabbitMQ client. Prefer Bunny: http://rubybunny.info. See documentation guides at http://ruby-amqp.github.io/amqp/.
 - [padrino/padrino-framework](https://github.com/padrino/padrino-framework) - Padrino is a full-stack ruby framework built upon Sinatra.
@@ -1794,7 +1796,7 @@
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
 - [Okazari/Rythm.js](https://github.com/Okazari/Rythm.js) - A javascript library that makes your page dance.
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
-- [hanami/hanami](https://github.com/hanami/hanami) - The web, with simplicity.
+- [hanami/hanami](https://github.com/hanami/hanami) - A flexible framework for maintainable Ruby apps
 
 ## web-development 
 

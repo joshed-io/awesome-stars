@@ -112,6 +112,7 @@
 
 ## Go 
 
+- [vrypan/lemon3](https://github.com/vrypan/lemon3) - File sharing using IPFS and Farcaster
 - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API

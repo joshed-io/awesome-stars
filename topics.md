@@ -942,6 +942,7 @@
 
 ## others 
 
+- [vrypan/lemon3](https://github.com/vrypan/lemon3) - File sharing using IPFS and Farcaster
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [Beyond-Network-AI/beyond-mcp-server](https://github.com/Beyond-Network-AI/beyond-mcp-server) - An Extensible Model Context Protocol (MCP) server
 - [andrewhong5297/farcaster-explorer](https://github.com/andrewhong5297/farcaster-explorer) - The repo behind the Dune dashboard https://dune.com/ilemi/farcaster-explorer

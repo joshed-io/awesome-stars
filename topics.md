@@ -139,8 +139,10 @@
 - [swiftui](#swiftui)
 - [symfony](#symfony)
 - [tailwindcss](#tailwindcss)
+- [telegram](#telegram)
 - [terminal](#terminal)
 - [testing](#testing)
+- [text-to-speech](#text-to-speech)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [virtual-reality](#virtual-reality)
@@ -161,6 +163,7 @@
 
 ## ai 
 
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI. No configuration madness, no complex callbacks, no handler hell – just beautiful, expressive Ruby code.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [fetchai/uAgents](https://github.com/fetchai/uAgents) - A fast and lightweight framework for creating decentralized agents with ease.
@@ -294,6 +297,7 @@
 
 ## chatbot 
 
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc from cience.com
 
@@ -426,6 +430,7 @@
 
 ## discord 
 
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [tealbathingsuit/accord](https://github.com/tealbathingsuit/accord) - a discord client for modern macs
 
 ## docker 
@@ -508,6 +513,7 @@
 
 ## framework 
 
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
@@ -943,7 +949,6 @@
 ## others 
 
 - [vrypan/lemon3](https://github.com/vrypan/lemon3) - File sharing using IPFS and Farcaster
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [Beyond-Network-AI/beyond-mcp-server](https://github.com/Beyond-Network-AI/beyond-mcp-server) - An Extensible Model Context Protocol (MCP) server
 - [andrewhong5297/farcaster-explorer](https://github.com/andrewhong5297/farcaster-explorer) - The repo behind the Dune dashboard https://dune.com/ilemi/farcaster-explorer
 - [gskril/searchcaster](https://github.com/gskril/searchcaster) - Search casts and profiles on the Farcaster protocol
@@ -1734,6 +1739,10 @@
 - [orbit-love/orbit-web](https://github.com/orbit-love/orbit-web) - The old website for https://orbit.love
 - [excid3/tailwindcss-stimulus-components](https://github.com/excid3/tailwindcss-stimulus-components) - A set of StimulusJS components for TailwindCSS apps similar to Bootstrap JS components.
 
+## telegram 
+
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+
 ## terminal 
 
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -1748,6 +1757,10 @@
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [TonicAI/condenser](https://github.com/TonicAI/condenser) - Condenser is a database subsetting tool
 - [jasmine/jasmine](https://github.com/jasmine/jasmine) - Simple JavaScript testing framework for browsers and node.js
+
+## text-to-speech 
+
+- [PLNech/musicologist](https://github.com/PLNech/musicologist) - Music advice from a conversational interface powered by Algolia
 
 ## twitter 
 

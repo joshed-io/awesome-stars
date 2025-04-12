@@ -488,6 +488,7 @@
 
 ## Others 
 
+- [badkk/awesome-crypto-mcp-servers](https://github.com/badkk/awesome-crypto-mcp-servers) - A collection of crypto MCP servers.
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol) - Specification of the Farcaster Protocol
 - [JohnnyPeng18/APIBench](https://github.com/JohnnyPeng18/APIBench) - APIBench is a benchmark for evaluating the performance of API recommendation approaches released in the paper "Revisiting, Benchmarking and Exploring APIRecommendation: How Far Are We?".
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents

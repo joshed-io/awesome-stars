@@ -225,7 +225,6 @@
 - [orbit-love/orbit-browser-extension](https://github.com/orbit-love/orbit-browser-extension) - The Orbit extension: all your community data, right at your fingertips.
 - [superlinear-hq/inboxzero-web](https://github.com/superlinear-hq/inboxzero-web) - Crowd-sourced collection of the best email tips, workflows & offers to dominate your inbox.
 - [rails/jquery-ujs](https://github.com/rails/jquery-ujs) - Ruby on Rails unobtrusive scripting adapter for jQuery
-- [hzoo/contributors-on-github](https://github.com/hzoo/contributors-on-github) - :cactus: Show stats about contributors on github
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [plouc/nivo-api](https://github.com/plouc/nivo-api) - Rendering API for nivo dataviz React/d3 components
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
@@ -897,6 +896,7 @@
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript.
 - [saurabhnemade/react-twitter-embed](https://github.com/saurabhnemade/react-twitter-embed) - Simplest way to add twitter widgets to your react project.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [hzoo/contributors-on-github](https://github.com/hzoo/contributors-on-github) - :cactus: Show stats about contributors on github
 - [hotwired/stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
 - [aviondb/aviondb](https://github.com/aviondb/aviondb) - A decentralised database with MongoDB-like developer interface (Fully Compatible with OrbitDB)
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries

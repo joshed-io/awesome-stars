@@ -146,7 +146,6 @@
 - [text-to-speech](#text-to-speech)
 - [twitter](#twitter)
 - [typescript](#typescript)
-- [ui-design](#ui-design)
 - [virtual-reality](#virtual-reality)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -1794,10 +1793,6 @@
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-
-## ui-design 
-
-- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 
 ## virtual-reality 
 

@@ -613,7 +613,6 @@
 - [tealbathingsuit/accord](https://github.com/tealbathingsuit/accord) - a discord client for modern macs
 - [orbit-love/github-actions-templates](https://github.com/orbit-love/github-actions-templates) - Starter GitHub Actions templates to get you up and running with community built integrations
 - [salsify/goldiloader](https://github.com/salsify/goldiloader) - Just the right amount of Rails eager loading
-- [excid3/noticed](https://github.com/excid3/noticed) - Notifications for Ruby on Rails applications
 - [scenic-views/scenic](https://github.com/scenic-views/scenic) - Versioned database views for Rails
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 - [stimulusreflex/cable_ready](https://github.com/stimulusreflex/cable_ready) - Use simple commands on the server to control client browsers in real-time

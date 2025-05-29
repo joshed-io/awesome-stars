@@ -1208,7 +1208,7 @@
 - [webstylestory/figolia](https://github.com/webstylestory/figolia) - ⚡️  Keep your Algolia search indexes in sync with your Firebase datasets!
 - [iheanyi/speakers-who-want-a-platform](https://github.com/iheanyi/speakers-who-want-a-platform) - A directory of underrepresented speakers for Q&A panels/conferences/events. No more excuses.
 - [scaphold-io/slackr-graphql-subscriptions-starter-kit](https://github.com/scaphold-io/slackr-graphql-subscriptions-starter-kit) - A realtime React starter kit powered by GraphQL Subscriptions. The app is a slack clone and features real-time messaging and social authentication.
-- [slackapi/build-this-bot-workshop](https://github.com/slackapi/build-this-bot-workshop) - Learn how to build a bot on Slack using Python
+- [slackapi/workshop-build-this-bot-2020](https://github.com/slackapi/workshop-build-this-bot-2020) - Learn how to build a bot on Slack using Python
 - [survivejs/react-boilerplate](https://github.com/survivejs/react-boilerplate) - Boilerplate for the "SurviveJS - React" book
 - [heavybit/devmarketingguide](https://github.com/heavybit/devmarketingguide) - The Developer Marketing Guide. You've got a great product, let's get the word out.
 - [contentful-userland/awesome-contentful](https://github.com/contentful-userland/awesome-contentful) - A curated list of community maintained Contentful resources and tools

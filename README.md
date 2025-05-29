@@ -525,7 +525,7 @@
 - [mangini/gdocs2md](https://github.com/mangini/gdocs2md) - Convert a Google Drive Document to the Markdown format, suitable for publishing.
 - [algolia/docsearch-preview](https://github.com/algolia/docsearch-preview) - 📄 Test out the search for your DocSearch project
 - [iheanyi/speakers-who-want-a-platform](https://github.com/iheanyi/speakers-who-want-a-platform) - A directory of underrepresented speakers for Q&A panels/conferences/events. No more excuses.
-- [slackapi/build-this-bot-workshop](https://github.com/slackapi/build-this-bot-workshop) - Learn how to build a bot on Slack using Python
+- [slackapi/workshop-build-this-bot-2020](https://github.com/slackapi/workshop-build-this-bot-2020) - Learn how to build a bot on Slack using Python
 - [contentful-userland/awesome-contentful](https://github.com/contentful-userland/awesome-contentful) - A curated list of community maintained Contentful resources and tools
 - [nolanlawson/pouchdb-electron](https://github.com/nolanlawson/pouchdb-electron) - PouchDB for Electron (formerly Atom Shell)
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com

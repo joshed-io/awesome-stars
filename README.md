@@ -626,6 +626,7 @@
 
 ## Ruby 
 
+- [cedarcode/webauthn-ruby](https://github.com/cedarcode/webauthn-ruby) - WebAuthn ruby server library ― Make your Ruby/Rails web server become a conformant WebAuthn Relying Party
 - [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - Stop juggling AI SDKs! RubyLLM offers one delightful Ruby interface for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama & compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings
 - [rubycdp/ferrum](https://github.com/rubycdp/ferrum) - Headless Chrome Ruby API
 - [rubycdp/vessel](https://github.com/rubycdp/vessel) - Fast high-level web crawling Ruby framework

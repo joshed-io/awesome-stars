@@ -239,7 +239,6 @@
 - [sanity-io/sanity-plugin-google-analytics](https://github.com/sanity-io/sanity-plugin-google-analytics) - Show Google Analytics data in your studio
 - [drop-ice/dear-github-2.0](https://github.com/drop-ice/dear-github-2.0) - 📨 An open letter to GitHub from the maintainers of open source projects
 - [CleverCloud/clever-tools](https://github.com/CleverCloud/clever-tools) - The official command line interface for Clever Cloud
-- [martyndavies/legit](https://github.com/martyndavies/legit) - NodeJS library for checking MX records exist on a domain
 - [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 - [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
 - [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
@@ -580,7 +579,6 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [andrewhong5297/farcaster-explorer](https://github.com/andrewhong5297/farcaster-explorer) - The repo behind the Dune dashboard https://dune.com/ilemi/farcaster-explorer
 - [memgraph/mcp-memgraph](https://github.com/memgraph/mcp-memgraph) - Memgraph MCP Server
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [fetchai/agents-aea](https://github.com/fetchai/agents-aea) - A framework for autonomous economic agent (AEA) development
 - [fetchai/uAgents](https://github.com/fetchai/uAgents) - A fast and lightweight framework for creating decentralized agents with ease.
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
@@ -830,7 +828,7 @@
 
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 
 ## SCSS 
 
@@ -878,6 +876,7 @@
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [Beyond-Network-AI/beyond-mcp-server](https://github.com/Beyond-Network-AI/beyond-mcp-server) - An Extensible Model Context Protocol (MCP) server
 - [gskril/farcaster-indexer](https://github.com/gskril/farcaster-indexer) - Save all data from the Farcaster protocol to Postgres
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [farcasterxyz/hub-monorepo](https://github.com/farcasterxyz/hub-monorepo) - Implementation of the Farcaster Hub specification and supporting libraries for building applications on Farcaster
 - [jonico/typescript-anthropic-tool-use-example](https://github.com/jonico/typescript-anthropic-tool-use-example) - An example of using the Anthropic API with tool use capabilities from typescript
 - [vercel-labs/ai-sdk-preview-multi-steps](https://github.com/vercel-labs/ai-sdk-preview-multi-steps) - 
@@ -911,6 +910,7 @@
 - [timmyreilly/TypewriterNoises-VSCode](https://github.com/timmyreilly/TypewriterNoises-VSCode) - Typewriter Noises for Visual Studio Code :musical_keyboard:
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
 - [sanity-io/dashboard-widget-document-list](https://github.com/sanity-io/dashboard-widget-document-list) - Dashboard widget for the Sanity Content Studio which displays a list of documents
+- [martyndavies/legit](https://github.com/martyndavies/legit) - NodeJS library for checking MX records exist on a domain
 - [jest-community/eslint-plugin-jest](https://github.com/jest-community/eslint-plugin-jest) - ESLint plugin for Jest
 - [developer239/react-apollo-graphql](https://github.com/developer239/react-apollo-graphql) - JavaScript meets web. React in tandem with Apollo. Minimal implementation that will help you get started with GraphQL.
 - [amatiasq/vsc-sort-imports](https://github.com/amatiasq/vsc-sort-imports) - Sort ES6 imports automatically.

@@ -1276,7 +1276,7 @@
 - [doublerebel/cloudant-user](https://github.com/doublerebel/cloudant-user) - Helper module to use standard CouchDB _users db on a Cloudant db
 - [nolanlawson/pouchdb-find](https://github.com/nolanlawson/pouchdb-find) - Easy-to-use query language for PouchDB. ⚠️ NOTICE ⚠️: moved to the PouchDB repo
 - [pouchdb-community/pouchdb-authentication](https://github.com/pouchdb-community/pouchdb-authentication) - User authentication plugin for PouchDB and CouchDB.
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 - [pouchdb-community/pouchdb-quick-search](https://github.com/pouchdb-community/pouchdb-quick-search) - Full-text search engine on top of PouchDB
 - [nmn/react-timeago](https://github.com/nmn/react-timeago) - A simple time-ago component for ReactJs.
 - [casetext/fireproof](https://github.com/casetext/fireproof) - Use promises with Firebase.

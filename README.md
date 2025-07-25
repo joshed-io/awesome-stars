@@ -111,6 +111,7 @@
 
 ## Go 
 
+- [dorkitude/linctl](https://github.com/dorkitude/linctl) - A Linear CLI tool built with agents in mind (but useful to humans too).  Implemented in Golang with Cobra.
 - [vrypan/lemon3](https://github.com/vrypan/lemon3) - File sharing using IPFS and Farcaster
 - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -488,6 +489,7 @@
 
 ## Others 
 
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [badkk/awesome-crypto-mcp-servers](https://github.com/badkk/awesome-crypto-mcp-servers) - A collection of crypto MCP servers.
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol) - Specification of the Farcaster Protocol
 - [JohnnyPeng18/APIBench](https://github.com/JohnnyPeng18/APIBench) - APIBench is a benchmark for evaluating the performance of API recommendation approaches released in the paper "Revisiting, Benchmarking and Exploring APIRecommendation: How Far Are We?".

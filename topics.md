@@ -165,6 +165,7 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xamarin](#xamarin)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -1929,6 +1930,12 @@
 ## xamarin 
 
 - [keenlabs/keen-sdk-net](https://github.com/keenlabs/keen-sdk-net) - A .NET SDK for the Keen IO API
+
+## zsh 
+
+- [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [iam4x/zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) - Display feedback of terminal in the 🍏 Touchbar
 
 
 ## License

@@ -41,6 +41,7 @@
 
 ## AppleScript 
 
+- [storizzi/notes-exporter](https://github.com/storizzi/notes-exporter) - Export Apple Notes to html, plain text, Markdown (eg for Obsidian), PDF, and DOCX (word) including images / attachments
 - [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts) - AppleScript for iTerm2 Alfred integration.
 
 ## Arduino 

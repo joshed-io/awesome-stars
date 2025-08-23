@@ -786,7 +786,7 @@
 
 ## jekyll 
 
-- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
+- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [forestryio/create-static-site](https://github.com/forestryio/create-static-site) - Create static websites with no build configuration.
 - [rob-murray/jekyll-twitter-plugin](https://github.com/rob-murray/jekyll-twitter-plugin) - A Liquid tag plugin for the Jekyll blogging engine that embeds Tweets, Timelines and more from Twitter API
 
@@ -943,7 +943,7 @@
 ## nodejs 
 
 - [aviondb/aviondb](https://github.com/aviondb/aviondb) - A decentralised database with MongoDB-like developer interface (Fully Compatible with OrbitDB)
-- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
+- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Secure, stateless, and cookie-based session library for JavaScript
 - [martyndavies/legit](https://github.com/martyndavies/legit) - NodeJS library for checking MX records exist on a domain
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
@@ -1578,7 +1578,7 @@
 - [flippercloud/flipper](https://github.com/flippercloud/flipper) - 🐬 Beautiful, performant feature flags for Ruby.
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [stimulusreflex/stimulus_reflex](https://github.com/stimulusreflex/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
-- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
+- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [infertux/ordinalize_full](https://github.com/infertux/ordinalize_full) - Turns a number into an ordinal string such as first, second, third or 1st, 2nd, 3rd.
 - [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
 - [ddnexus/pagy](https://github.com/ddnexus/pagy) - 🏆 The Best Pagination Ruby Gem 🥇

@@ -1078,7 +1078,7 @@
 - [maccman/nestful](https://github.com/maccman/nestful) - Simple Ruby HTTP/REST client with a sane API
 - [davidgs/OrbitParser](https://github.com/davidgs/OrbitParser) - Parse your Orbit Members to csv
 - [jsonapi-serializer/jsonapi-serializer](https://github.com/jsonapi-serializer/jsonapi-serializer) - A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)
-- [rubiety/nilify_blanks](https://github.com/rubiety/nilify_blanks) - Provides a framework for saving incoming blank values as nil in the database in instances where you'd rather use DB NULL than simply a blank string.
+- [eigenben/nilify_blanks](https://github.com/eigenben/nilify_blanks) - Provides a framework for saving incoming blank values as nil in the database in instances where you'd rather use DB NULL than simply a blank string.
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
 - [bramses/orbit-levels-p5-visualization](https://github.com/bramses/orbit-levels-p5-visualization) - Solar System viz for Orbit!
 - [partycorgi/partycorgi](https://github.com/partycorgi/partycorgi) - A GitHub repo containing party corgi related information and documents

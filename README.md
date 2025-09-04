@@ -668,7 +668,7 @@
 - [jetrockets/metka](https://github.com/jetrockets/metka) - Rails gem to manage tags with PostgreSQL array columns.
 - [maccman/nestful](https://github.com/maccman/nestful) - Simple Ruby HTTP/REST client with a sane API
 - [jsonapi-serializer/jsonapi-serializer](https://github.com/jsonapi-serializer/jsonapi-serializer) - A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)
-- [rubiety/nilify_blanks](https://github.com/rubiety/nilify_blanks) - Provides a framework for saving incoming blank values as nil in the database in instances where you'd rather use DB NULL than simply a blank string.
+- [eigenben/nilify_blanks](https://github.com/eigenben/nilify_blanks) - Provides a framework for saving incoming blank values as nil in the database in instances where you'd rather use DB NULL than simply a blank string.
 - [barsoom/attr_extras](https://github.com/barsoom/attr_extras) - Takes some boilerplate out of Ruby with methods like attr_initialize.
 - [scenic-views/scenic](https://github.com/scenic-views/scenic) - Versioned database views for Rails
 - [stimulusreflex/cable_ready](https://github.com/stimulusreflex/cable_ready) - Use simple commands on the server to control client browsers in real-time
